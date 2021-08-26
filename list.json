@@ -1,12 +1,5 @@
 [
   {
-    "name": "Cidade FM",
-    "url": "https://media1.mcr.iol.pt/livefm/cidade/playlist.m3u8",
-    "url_resolved": "https://media1.mcr.iol.pt/livefm/cidade/playlist.m3u8",
-    "homepage": "https://cidade.iol.pt/",
-    "favicon": "https://cidade.iol.pt/images/logo_CIDADE_2020.png"
-  },
-  {
     "name": "Rádio Antena Livre",
     "url": "http://centova.radio.com.pt:8571/;",
     "url_resolved": "http://centova.radio.com.pt:8571/;",
