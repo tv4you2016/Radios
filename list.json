@@ -1,7 +1,7 @@
 [
 	{
 		"name": "80's RFM",
-		"url": "https://20133.live.streamtheworld.com/GR80SRFM",
+		"url": "http://20133.live.streamtheworld.com/GR80SRFM",
 		"url_resolved": "https://20133.live.streamtheworld.com/GR80SRFM",
 		"homepage": "https://rfm.sapo.pt/ouviremissao80s",
 		"favicon": "https://cdnimages01.azureedge.net/rfmsite/images/logo18_80s.png"
@@ -139,7 +139,7 @@
 	{
 		"name": "M80 PORTUGAL",
 		"url": "https://mcrwowza8.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8?rnd=35397.2149255331",
-		"url_resolved": "https://mcrscast.mcr.iol.pt/m80",
+		"url_resolved": "http://mcrscast.mcr.iol.pt/m80",
 		"homepage": "https://m80.iol.pt/player/M80-PORTUGAL",
 		"favicon": "https://m80.iol.pt/upload/W/webradio-m80-nacional1-social.jpg"
 	},
@@ -174,28 +174,28 @@
 	{
 		"name": "RFM",
 		"url": "https://23603.live.streamtheworld.com/RFMAAC.aac",
-		"url_resolved": "https://23603.live.streamtheworld.com/RFMAAC.aac",
+		"url_resolved": "http://23603.live.streamtheworld.com/RFMAAC.aac",
 		"homepage": "https://rfm.sapo.pt/",
 		"favicon": "https://static.wikia.nocookie.net/logopedia/images/7/75/RFM.svg"
 	},
 	{
 		"name": "RFM Oceano Pacífico",
 		"url": "https://22713.live.streamtheworld.com/OCEANPACIFICAAC.aac",
-		"url_resolved": "https://22713.live.streamtheworld.com/OCEANPACIFICAAC.aac",
+		"url_resolved": "http://22713.live.streamtheworld.com/OCEANPACIFICAAC.aac",
 		"homepage": "https://rfm.sapo.pt/home",
 		"favicon": "https://rfm.sapo.pt/icons/favicon.ico"
 	},
 	{
 		"name": "RFM Oitentas",
 		"url": "https://20133.live.streamtheworld.com/GR80SRFMAAC.aac",
-		"url_resolved": "https://20133.live.streamtheworld.com/GR80SRFMAAC.aac",
+		"url_resolved": "http://20133.live.streamtheworld.com/GR80SRFMAAC.aac",
 		"homepage": "https://rfm.sapo.pt/home",
 		"favicon": "https://rfm.sapo.pt/icons/favicon.ico"
 	},
 	{
 		"name": "RFM on the Rock",
 		"url": "https://22543.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
-		"url_resolved": "https://22543.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
+		"url_resolved": "http://22543.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
 		"favicon": "https://rfm.sapo.pt/icons/favicon.ico"
 	},
 	{
@@ -215,7 +215,7 @@
 	{
 		"name": "Radio Metal ON - The Heavy",
 		"url": "https://radiometalon.com/radio/8000/radio.mp3",
-		"url_resolved": "https://radiometalon.com/radio/8000/radio.mp3",
+		"url_resolved": "http://radiometalon.com/radio/8000/radio.mp3",
 		"homepage": "http://metalon.org/",
 		"favicon": ""
 	},
@@ -264,7 +264,7 @@
 	{
 		"name": "Rádio Comercial",
 		"url": "https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8",
-		"url_resolved": "https://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8",
+		"url_resolved": "http://media1.mcr.iol.pt/livefm/comercial/playlist.m3u8",
 		"homepage": "https://radiocomercial.iol.pt/",
 		"favicon": "https://radiocomercial.iol.pt/images/svg/logoRC_black.svg"
 	},
@@ -320,7 +320,7 @@
 	{
 		"name": "Rádio XL",
 		"url": "https://radios.justweb.pt/8002/stream",
-		"url_resolved": "https://radios.justweb.pt/8002/stream",
+		"url_resolved": "http://radios.justweb.pt/8002/stream",
 		"homepage": "https://radioxlfm.pt/",
 		"favicon": "https://radioxlfm.pt/wp-content/uploads/2020/07/cropped-favicon-novo-192x192.png"
 	},
