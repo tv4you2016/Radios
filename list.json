@@ -326,8 +326,6 @@
     "favicon": "http://mediaserver2.rr.pt/NEWRR/logorrredessociais6088e0e6.jpg"
   },
   {
-    "changeuuid": "9619be28-0601-11e8-ae97-52543be04c81",
-    "stationuuid": "9619be25-0601-11e8-ae97-52543be04c81",
     "name": "Deep in Radio",
     "url": "http://s3.viastreaming.net:8525/",
     "url_resolved": "http://s3.viastreaming.net:8525/",
