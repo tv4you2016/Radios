@@ -1,104 +1,77 @@
 [
 	{
 		"name": "80's RFM",
-		"url": "http://20133.live.streamtheworld.com/GR80SRFM",
 		"url_resolved": "http://20863.live.streamtheworld.com/GR80SRFMAAC.aac",
-		"homepage": "https://rfm.sapo.pt/ouviremissao80s",
 		"favicon": "https://cdnimages01.azureedge.net/rfmsite/images/logo18_80s.png"
 	},
 	{
 		"name": "Antena 1 (national feed, RTP)",
-		"url": "http://radiocast.rtp.pt/antena180a.mp3",
 		"url_resolved": "http://radiocast.rtp.pt/antena180a.mp3",
-		"homepage": "https://www.rtp.pt/play/",
 		"favicon": "https://cdn-radiotime-logos.tunein.com/s8592d.png"
 	},
 	{
 		"name": "Antena 1 Açores (RTP)",
-		"url": "http://radiocast.rtp.pt/antena1acores80a.mp3",
 		"url_resolved": "http://radiocast.rtp.pt/antena1acores80a.mp3"
+		"favicon": ""
 	},
 	{
 		"name": "Antena 1 Fado (RTP)",
-		"url": "http://radiocast.rtp.pt/antena1fado80a.mp3",
 		"url_resolved": "http://radiocast.rtp.pt/antena1fado80a.mp3",
-		"homepage": "https://www.rtp.pt/play/",
 		"favicon": "https://cdn-radiotime-logos.tunein.com/s157568d.png"
 	},
 	{
 		"name": "Antena 1 Madeira (RTP)",
-		"url": "http://radiocast.rtp.pt/antena1madeira80a.mp3",
 		"url_resolved": "http://radiocast.rtp.pt/antena1madeira80a.mp3",
-		"homepage": "https://www.rtp.pt/play/",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s55164q.png"
 	},
 	{
 		"name": "Antena 2 (RTP)",
-		"url": "http://radiocast.rtp.pt/antena280a.mp3",
 		"url_resolved": "http://radiocast.rtp.pt/antena280a.mp3",
-		"homepage": "https://www.rtp.pt/play/",
 		"favicon": "https://cdn-radiotime-logos.tunein.com/s6746d.png"
 	},
 	{
 		"name": "Antena 2 Jazzin'",
-		"url": "http://radiocast.rtp.pt/antena2jazzin80a.mp3",
 		"url_resolved": "http://radiocast.rtp.pt/antena2jazzin80a.mp3",
-		"homepage": "https://www.rtp.pt/play/direto/antena2jazzin",
 		"favicon": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/101-262619141305.png?v=3&w=860"
 	},
 	{
 		"name": "Antena 3 (RTP)",
-		"url": "http://radiocast.rtp.pt/antena380a.mp3",
 		"url_resolved": "http://radiocast.rtp.pt/antena380a.mp3",
-		"homepage": "https://www.rtp.pt/play/",
 		"favicon": "https://cdn-radiotime-logos.tunein.com/s24930d.png"
 	},
 	{
 		"name": "Antena 3 Madeira (RTP)",
-		"url": "http://radiocast.rtp.pt/antena3madeira80a.mp3",
 		"url_resolved": "http://radiocast.rtp.pt/antena3madeira80a.mp3",
-		"homepage": "https://www.rtp.pt/play/",
 		"favicon": "https://cdn-radiotime-logos.tunein.com/s66486d.png"
 	},
 	{
 		"name": "Antena Livre",
-		"url": "http://centova.radio.com.pt:9456/;",
 		"url_resolved": "http://centova.radio.com.pt:9456/;",
-		"homepage": "http://www.896.fm/",
 		"favicon": "http://www.896.fm/LOGO%20ANTENA%20LIVRE.jpg"
 	},
 	{
 		"name": "Cidade FM",
-		"url": "http://195.23.102.207/cidadefm",
 		"url_resolved": "http://195.23.102.207/cidadefm",
-		"homepage": "http://cidade.iol.pt/",
 		"favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/7wm7hWrx29.jpg"
 	},
 	{
 		"name": "Cidade FM (alt)",
-		"url": "http://mcrscast.mcr.iol.pt/cidadefm",
 		"url_resolved": "http://mcrscast.mcr.iol.pt/cidadefm",
-		"homepage": "http://cidade.iol.pt/",
 		"favicon": "http://cidade.iol.pt/images/logo-cidade-light.png"
 	},
 	{
 		"name": "Deep in Radio",
-		"url": "http://s3.viastreaming.net:8525/",
 		"url_resolved": "http://s3.viastreaming.net:8525/",
-		"homepage": "http://www.deepinradio.com/",
 		"favicon": "http://static.radio.de/images/broadcasts/8c/2f/18038/c175.png"
 	},
 	{
 		"name": "Emissora das Beiras",
-		"url": "http://centova.radio.com.pt:8465/;",
 		"url_resolved": "http://centova.radio.com.pt:8465/;",
-		"homepage": "http://emissoradasbeiras.pt/"
+		"favicon": ""
 	},
 	{
 		"name": "Estação Diária",
-		"url": "http://centova.radio.com.pt:9430/;",
 		"url_resolved": "http://centova.radio.com.pt:9430/;",
-		"homepage": "http://www.968.fm/",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s81780q.png"
 	},
 	{
@@ -110,246 +83,178 @@
 	},
 	{
 		"name": "Hiper FM",
-		"url": "http://195.23.85.126:9500/;",
 		"url_resolved": "http://195.23.85.126:9500/;",
-		"homepage": "http://www.hiper.fm/",
 		"favicon": "https://cdn.apkmonk.com/logos/com.goodbarber.hiperfm2_150x150.png"
 	},
 	{
 		"name": "M80 Radio",
-		"url": "https://mcrwowza8.mcr.iol.pt/m80nacional/m80nacional.stream/playlist.m3u8?rnd=35397.2149255331",
 		"url_resolved": "http://mcrscast.mcr.iol.pt/m80",
-		"homepage": "https://m80.iol.pt/player/M80-PORTUGAL",
 		"favicon": "https://m80.iol.pt/upload/W/webradio-m80-nacional1-social.jpg"
 	},
 	{
 		"name": "M80 Radio (alt)",
-		"url": "http://mcrscast.mcr.iol.pt/m80",
 		"url_resolved": "http://mcrscast.mcr.iol.pt/m80",
-		"homepage": "http://m80.iol.pt/",
 		"favicon": "http://m80.iol.pt//favicon.ico"
 	},
 	{
 		"name": "Mega Hits",
-		"url": "http://provisioning.streamtheworld.com/pls/mega_hits.pls",
 		"url_resolved": "http://20133.live.streamtheworld.com:3690/MEGA_HITS_SC",
-		"homepage": "http://www.megahits.fm/",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s6745q.png"
 	},
 	{
 		"name": "ORBITAL",
-		"url": "http://centova.radios.pt:8401/;listen.pls",
 		"url_resolved": "http://centova.radios.pt:8401/;listen.pls",
-		"homepage": "http://www.orbital.pt/",
 		"favicon": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKuvt2fcJo-jnokx8ovXXFeI2RMjiWAiJUf_FePFhcHszLKKu6"
 	},
 	{
 		"name": "RADIO FAUSTEX DANCE",
-		"url": "http://109.169.23.123:8073/",
 		"url_resolved": "http://109.169.23.123:8073/",
-		"homepage": "https://radiofaustexdance.listen2myshow.com/",
 		"favicon": "http://static.mytuner.mobi/media/tvos_radios/yp6ctluu4xa5.png"
 	},
 	{
 		"name": "RFM",
-		"url": "https://23603.live.streamtheworld.com/RFMAAC.aac",
 		"url_resolved": "http://23603.live.streamtheworld.com/RFMAAC.aac",
-		"homepage": "https://rfm.sapo.pt/",
 		"favicon": "https://static.wikia.nocookie.net/logopedia/images/7/75/RFM.svg"
 	},
 	{
 		"name": "RFM Oceano Pacífico",
-		"url": "https://22713.live.streamtheworld.com/OCEANPACIFICAAC.aac",
 		"url_resolved": "http://22713.live.streamtheworld.com/OCEANPACIFICAAC.aac",
-		"homepage": "https://rfm.sapo.pt/home",
 		"favicon": "https://rfm.sapo.pt/icons/favicon.ico"
 	},
 	{
 		"name": "RFM Oitentas",
-		"url": "https://20133.live.streamtheworld.com/GR80SRFMAAC.aac",
 		"url_resolved": "http://20133.live.streamtheworld.com/GR80SRFMAAC.aac",
-		"homepage": "https://rfm.sapo.pt/home",
 		"favicon": "https://rfm.sapo.pt/icons/favicon.ico"
 	},
 	{
 		"name": "RFM on the Rock",
-		"url": "https://22543.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
 		"url_resolved": "http://22543.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
 		"favicon": "https://rfm.sapo.pt/icons/favicon.ico"
 	},
 	{
 		"name": "RLCB Dance",
-		"url": "http://rlcbdance.no-ip.org:8431/",
 		"url_resolved": "http://rlcbdance.no-ip.org:8431/;",
-		"homepage": "http://www.rlcbdance.lusitaniacb.net/",
 		"favicon": "http://static.radio.de/images/broadcasts/49/3c/29601/c175.png"
 	},
 	{
 		"name": "Radio Comercial_",
-		"url": "http://mcrscast1.mcr.iol.pt/comercial.mp3",
 		"url_resolved": "http://mcrscast1.mcr.iol.pt/comercial.mp3",
-		"homepage": "http://radiocomercial.iol.pt/",
 		"favicon": "http://radiocomercial.iol.pt//favicon.ico"
 	},
 	{
 		"name": "Radio Metal ON - The Heavy",
-		"url": "https://radiometalon.com/radio/8000/radio.mp3",
 		"url_resolved": "http://radiometalon.com/radio/8000/radio.mp3",
-		"homepage": "http://metalon.org/",
 		"favicon": "http://cdn.onlineradiobox.com/img/l/8/19798.v6.png"
 	},
 	{
 		"name": "Radio Metal ON: The Brutal",
-		"url": "https://radiometalon.com/radio/8010/radio.mp3.xspf",
 		"url_resolved": "http://radiometalon.com:8010/radio.mp3",
-		"homepage": "https://metaling.org/",
 		"favicon": "https://metalon.org/wordpress/wp-content/uploads/2016/12/HornesUP-420x420.jpg"
 	},
 	{
 		"name": "Radio Metal ON: The Heavy",
-		"url": "https://radiometalon.com/radio/8000/radio.mp3.xspf",
 		"url_resolved": "http://radiometalon.com:8000/radio.mp3",
-		"homepage": "https://metalon.org/",
 		"favicon": "https://metalon.org/wordpress/wp-content/uploads/2016/12/HornesUP-420x420.jpg"
 	},
 	{
 		"name": "Radio Nova",
-		"url": "http://centova.radios.pt:9528/",
 		"url_resolved": "http://centova.radios.pt:9528/",
-		"homepage": "http://www.radionova.fm/",
 		"favicon": "http://www.radionova.fm/favicon.ico"
 	},
 	{
 		"name": "Radio Regional - Radio 100% Dance & DJ's",
-		"url": "http://streaming.radioregional.pt:8064/stream",
 		"url_resolved": "http://streaming.radioregional.pt:8064/stream",
-		"homepage": "https://radioregional.pt/musica/radio-dance-djs/",
 		"favicon": "https://radioregional.pt/wp-content/uploads/2015/04/cropped-logotipo_smile_only_550x550-32x32.png"
 	},
 	{
 		"name": "Rap/Hip Hop",
 		"url": "http://185.32.188.17:8097/stream",
 		"url_resolved": "http://185.32.188.17:8097/stream",
-		"homepage": "http://185.32.188.17:8097/stream"
 		
 	},
 	{
 		"name": "Rádio Antena Livre",
-		"url": "http://centova.radio.com.pt:8571/;",
 		"url_resolved": "http://centova.radio.com.pt:8571/;",
-		"homepage": "http://www.antenalivre.pt/",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s84143q.png"
 	},
 	{
 		"name": "Rádio Comercial",
-		"url": "http://mcrscast.mcr.iol.pt/comercial.mp3",
 		"url_resolved": "http://mcrscast.mcr.iol.pt/comercial.mp3",
-		"homepage": "https://radiocomercial.iol.pt/",
 		"favicon": "https://radiocomercial.iol.pt/favicon.ico?v=2"
 	},
 	{
 		"name": "Rádio MEO Music",
-		"url": "http://centova.radio.com.pt:8495/;",
 		"url_resolved": "http://centova.radio.com.pt:8495/;",
-		"homepage": "http://radiomeomusic.meo.pt/",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s81786q.png"
 	},
 	{
 		"name": "Rádio NoAr",
-		"url": "http://5.189.189.245:8024/;",
 		"url_resolved": "http://5.189.189.245:8024/;",
-		"homepage": "https://radionoar.pt/",
 		"favicon": "https://i0.wp.com/radionoar.pt/wp-content/uploads/2019/07/Logo_RadioNoAr.png?fit=480%2C480&ssl=1"
 	},
 	{
 		"name": "Rádio Nova 98.9 FM",
-		"url": "http://centova.radio.com.pt:9528/",
 		"url_resolved": "http://centova.radio.com.pt:9528/",
-		"homepage": "http://www.radionova.fm/",
 		"favicon": "http://www.radionova.fm/w/img/radionova_logo-cores.png"
 	},
 	{
 		"name": "Rádio Nova Era",
-		"url": "http://centova.radio.com.pt:9478/",
 		"url_resolved": "http://centova.radio.com.pt:9478/",
-		"homepage": "http://www.radionovaera.pt/",
 		"favicon": "http://www.radionovaera.pt/wp-content/uploads/revslider/slider-home-1/favicon.png"
 	},
 	{
 		"name": "Rádio Placard",
-		"url": "http://213.239.218.99:7098/stream.mp3",
 		"url_resolved": "http://213.239.218.99:7098/stream.mp3",
-		"homepage": "http://www.radioplacard.pt/",
 		"favicon": "http://www.recordfm.pt/placard.png"
 	},
 	{
 		"name": "Rádio Renascença",
-		"url": "http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls",
 		"url_resolved": "http://20723.live.streamtheworld.com/RADIO_RENASCENCA_SC",
-		"homepage": "http://rr.sapo.pt/",
 		"favicon": "http://mediaserver2.rr.pt/NEWRR/logorrredessociais6088e0e6.jpg"
 	},
 	{
 		"name": "Rádio XL",
-		"url": "https://radios.justweb.pt/8002/stream",
 		"url_resolved": "http://radios.justweb.pt/8002/stream",
-		"homepage": "https://radioxlfm.pt/",
 		"favicon": "https://radioxlfm.pt/wp-content/uploads/2020/07/cropped-favicon-novo-192x192.png"
 	},
 	{
 		"name": "Rádio nove3cinco",
-		"url": "http://centova.radio.com.pt:9522/;",
 		"url_resolved": "http://centova.radio.com.pt:9522/;",
-		"homepage": "http://www.nove3cinco.com/",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s83746q.png"
 	},
 	{
 		"name": "TSF",
-		"url": "http://directo.tsf.pt:8181/tsfdirecto.aac",
 		"url_resolved": "http://directo.tsf.pt:8181/tsfdirecto.aac",
-		"homepage": "http://www.tsf.pt/",
 		"favicon": "https://www.tsf.pt/common/images/favicons/mstile-310x150.png"
 	},
 	{
 		"name": "TSF Rádio Açores",
-		"url": "http://centova.radio.com.pt:8243/;",
 		"url_resolved": "http://centova.radio.com.pt:8243/;",
-		"homepage": "http://www.acorianooriental.pt/noticias/tsf",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s110774t.png"
 	},
 	{
 		"name": "TSF Rádio Madeira",
-		"url": "http://centova.radio.com.pt:9470/;",
 		"url_resolved": "http://centova.radio.com.pt:9470/;",
-		"homepage": "http://www.netmadeira.com/radios/tsf-madeira",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s163045q.png"
 	},
 	{
 		"name": "TSF Rádio Notícias",
-		"url": "http://tsfdirecto.tsf.pt/tsfdirecto.mp3",
 		"url_resolved": "http://tsfdirecto.tsf.pt/tsfdirecto.mp3",
-		"homepage": "http://www.tsf.pt/",
 		"favicon": "http://www.tsf.pt/favicon.ico"
 	},
 	{
 		"name": "The VIBE - Dancefloor Radio",
-		"url": "http://109.71.41.6:8046/stream",
 		"url_resolved": "http://109.71.41.6:8046/stream",
-		"homepage": "http://vibe.pt/",
 		"favicon": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/42/96/38511/1/c175.png"
 	},
 	{
-		"name": "Ultra FM",
-		"url": "http://centova.radio.com.pt:9506/;",
+		"name": "Ultra FM",,
 		"url_resolved": "http://centova.radio.com.pt:9506/;",
-		"homepage": "http://www.ultrafm.pt/",
 		"favicon": "http://cdn-radiotime-logos.tunein.com/s87852q.png"
 	},
 	{
 		"name": "Vodafone FM",
-		"url": "http://mcrscast.mcr.iol.pt/vodafone",
 		"url_resolved": "http://mcrscast.mcr.iol.pt/vodafone",
-		"homepage": "http://vodafone.fm/",
 		"favicon": "http://www.i3radio.com/userfiles/avatars/paeaozwgxiof-973223268.png"
 	}
 ]
