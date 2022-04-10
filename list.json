@@ -1,2539 +1,3208 @@
 {
-  "radios": {
+  "radio_types": {
     "items": [
       {
-        "url_resolved": "https://centova.radio.com.pt/proxy/401?mp=/stream",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=22",
-        "name": "Radio Orbital"
+        "id": 36,
+        "name": "Classic"
       },
       {
-        "url_resolved": "http://live.noite.pt:8080/;",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=25",
-        "name": "Noite FM"
+        "id": 37,
+        "name": "Country"
       },
       {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=36",
-        "name": ".977 - Top 40 Pop and Rock Hitz"
+        "id": 38,
+        "name": "Chillout"
       },
       {
-        "url_resolved": "https://listen.181fm.com/181-energy98_128k.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=41",
-        "name": "Energy 98"
+        "id": 39,
+        "name": "Electronic"
       },
       {
-        "url_resolved": "http://www.pulsradio.com/pls/puls-adsl.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=64",
-        "name": "Pulsradio - Hits Non Stop"
+        "id": 40,
+        "name": "Hits/Top"
       },
       {
-        "url_resolved": "http://www.pulsradio.com/pls/pulstrance-adsl.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=65",
-        "name": "Pulsradio - Trance Non Stop"
+        "id": 41,
+        "name": "Jazz"
       },
       {
-        "url_resolved": "http://www.977music.com/tunein/web/jamz.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=88",
-        "name": "Club 997 - Urban Jamz"
+        "id": 44,
+        "name": "Pop"
       },
       {
-        "url_resolved": "http://somafm.com/wma128/dronezone.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=108",
-        "name": "Soma FM - Atmospheric Ambient SPA"
+        "id": 45,
+        "name": "Rock"
       },
       {
-        "url_resolved": "http://somafm.com/wma128/groovesalad.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=109",
-        "name": "Soma FM - Groove Salad Lounge"
+        "id": 46,
+        "name": "Others"
       },
       {
-        "url_resolved": "http://somafm.com/wma128/indiepop.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=110",
-        "name": "Soma FM - Rock"
+        "id": 47,
+        "name": "Portuguese"
       },
       {
-        "url_resolved": "http://somafm.com/wma128/lush.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=111",
-        "name": "Soma FM - Lush"
+        "id": 48,
+        "name": "House"
       },
       {
-        "url_resolved": "http://somafm.com/wma128/beatblender.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=112",
-        "name": "Soma FM - Beat Blender"
+        "id": 49,
+        "name": "Reggae"
       },
       {
-        "url_resolved": "http://somafm.com/wma128/suburbsofgoa.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=113",
-        "name": "Soma FM - Suburbs of Goa"
+        "id": 52,
+        "name": "Blues"
       },
       {
-        "url_resolved": "http://somafm.com/wma128/bootliquor.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=115",
-        "name": "Soma FM - Boot Liquor"
+        "id": 54,
+        "name": "Easy Listening"
       },
       {
-        "url_resolved": "http://somafm.com/wma128/missioncontrol.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=116",
-        "name": "Soma FM - Mission Control Mix"
+        "id": 55,
+        "name": "Folk"
       },
       {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERN.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=135",
-        "name": ".977 - Alternative Rock"
+        "id": 56,
+        "name": "Inspirational"
       },
       {
-        "url_resolved": "http://relaxingjazz.com/broadband.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=137",
-        "name": "RelaxingJazz"
+        "id": 57,
+        "name": "International"
       },
       {
-        "url_resolved": "http://www.soma.fm/indiepop.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=143",
-        "name": "SomaFM - Indie Pop Rocks"
-      },
-      {
-        "url_resolved": "http://www.swissradio.ch/streams/6034.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=150",
-        "name": "Swiss Internet Radio"
-      },
-      {
-        "url_resolved": "http://listen.to.techno4ever.net/dsl/mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=160",
-        "name": "Techno4ever Radio"
-      },
-      {
-        "url_resolved": "http://magnatune.com/genres/m3u/classical.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=164",
-        "name": "Magnatune Classical"
-      },
-      {
-        "url_resolved": "http://asx.abacast.com/kcsm-kcsmwmp641-64.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=165",
-        "name": "KCSM Jass 91.1 FM"
-      },
-      {
-        "url_resolved": "http://www.hot108.com/hot108jamz.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=176",
-        "name": "Hot 108 Jamz"
-      },
-      {
-        "url_resolved": "http://www.folkalley.com/folkalley.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=178",
-        "name": "Folk Alley"
-      },
-      {
-        "url_resolved": "http://www.country108.com/listen.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=203",
-        "name": "Country 108"
-      },
-      {
-        "url_resolved": "http://www.lolliradio.net/streaming/soft.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=226",
-        "name": "Lolli Radio Soft"
-      },
-      {
-        "url_resolved": "http://www.klux.org/stream/listenlive.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=227",
-        "name": "Klux 89.5HD"
-      },
-      {
-        "url_resolved": "http://www.dinamo.fm/dinamo_wmp3.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=237",
-        "name": "Dinamo.fm"
-      },
-      {
-        "url_resolved": "http://audiostreamen.nl:8010/",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=249",
-        "name": "Radio Moonlight"
-      },
-      {
-        "url_resolved": "http://www.fbcradio.org/fbcradio.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=261",
-        "name": "FBC Radio"
-      },
-      {
-        "url_resolved": "http://beirutnights.com/livehi.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=268",
-        "name": "BeirutNights"
-      },
-      {
-        "url_resolved": "http://byblosradio.com/live.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=269",
-        "name": "ByblosRadio"
-      },
-      {
-        "url_resolved": "http://stream.latinofm.de/latinofm.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=296",
-        "name": "Latino FM"
-      },
-      {
-        "url_resolved": "http://www.star104.net/stream/wm-oldies.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=307",
-        "name": "Listen From Star "
-      },
-      {
-        "url_resolved": "http://useless.enation.fm/geo/stream.php?mode=asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=318",
-        "name": "Enation FM"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/windowsguide-rock.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=327",
-        "name": "Hotmix Radio Rock"
-      },
-      {
-        "url_resolved": "http://www.star104.net/stream/wm-comedy.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=337",
-        "name": "Comedy 104"
-      },
-      {
-        "url_resolved": "http://www.radionz.co.nz/audio/live/concert/adaptive.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=351",
-        "name": "Radio New Zealand Concert"
-      },
-      {
-        "url_resolved": "http://www.relaxingjazz.com/broadband.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=355",
-        "name": "Relaxing Jazz"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radio-mozart",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=437",
-        "name": "Radio Mozart"
-      },
-      {
-        "url_resolved": "https://rmnrelax.schlagerparadies.de/rmnrelax",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=467",
-        "name": "RMNrelax - the relaxed chillout station"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://radio.musicfactory.gr:9000/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=480",
-        "name": "MUSIC FACTORY ATHENS RADIO greece "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8004/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=494",
-        "name": "181.fm - The Breeze "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://naxidigital128.kbcnet.rs:8020/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=500",
-        "name": "NAXI CAFE RADIO by KBC NET (NAXI,"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://online.radiodifusion.net:8054/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=538",
-        "name": "Radio Reggae "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://tuner.classical102.com/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=541",
-        "name": "CLASSICAL 102 - The First Class In Music"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8020/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=548",
-        "name": "181.FM - Classical Guitar "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://war.str3am.com:7320/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=552",
-        "name": "WMNR Fine Arts Radio "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://streaming.promomedios.com:8008/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=554",
-        "name": "XHMBM - MILLENIUM BELLA MUSICA"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://tuner.jackfm.de/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=559",
-        "name": "JACK FM - ALL HIT RADIO"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8002/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=560",
-        "name": "181.fm - The Office Your Office Friendly"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://tuner.hit104.de/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=561",
-        "name": "HIT104 - Your Top 40 Channel "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8032/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=562",
-        "name": "181.fm - The Mix Channel"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8000/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=563",
-        "name": "181.fm - Awesome 80s"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8028/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=567",
-        "name": "181.fm - Rock 40 "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8800/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=568",
-        "name": "181.FM - Energy 98 - Dance Hits "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uk1.internet-radio.com:15614/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=569",
-        "name": "Pure Dance Radio Tenerife "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uk1.internet-radio.com:15254/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=571",
-        "name": "Vombat Radio Live Online Concerts "
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://radiolatina.info:7084/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=601",
-        "name": "Estrella Internacional "
-      },
-      {
-        "url_resolved": "https://mambo.newradio.it/stream",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=603",
-        "name": "RADIO MAMBO - El Ritmo de la Vida"
-      },
-      {
-        "url_resolved": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://188.165.206.81:8100/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=607",
-        "name": "RadioMusic - Salsa4te"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/asx/181-power.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=618",
-        "name": "Essencial Mix 181 FM"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/elnivelradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=621",
-        "name": "EL NIVEL RADIO"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/infinitum-fm.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=630",
-        "name": "Infinitum FM"
-      },
-      {
-        "url_resolved": "http://www.swissgroove.ch/listen.php?player=m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=640",
-        "name": "SwissGroove"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=36483",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=641",
-        "name": "123Vallenato"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=45798",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=643",
-        "name": "Ábaco Libros y Café Radio"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=29512",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=651",
-        "name": "Barranquilla Estereo"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=47283",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=657",
-        "name": "Folklórica Estéreo"
-      },
-      {
-        "url_resolved": "http://radiolatina.info:7084/;",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=658",
-        "name": "Estrella Colombia 104.3 FM"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=503",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=660",
-        "name": "Caracol Radio 100.9 FM"
-      },
-      {
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_CARINOSA_BOGAAC_SC",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=663",
-        "name": "La Carinosa Bogotá"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=37093",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=664",
-        "name": "La Mega"
-      },
-      {
-        "url_resolved": "http://20823.live.streamtheworld.com/RCN_RADIO_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=680",
-        "name": "RCN La Radio Bogota 93.9 FM"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=40088",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=681",
-        "name": "La FM Bucaramanga"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=39984",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=683",
-        "name": "Radio Fantastica"
-      },
-      {
-        "url_resolved": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=23622",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=684",
-        "name": "Radio Bolivariana"
-      },
-      {
-        "url_resolved": "http://radios.vpn.sapo.pt/AO/radio9.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=702",
-        "name": "RÁDIO KAIRÓS"
-      },
-      {
-        "url_resolved": "http://radios.vpn.sapo.pt/AO/radio5.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=704",
-        "name": "RÁDIO 5"
-      },
-      {
-        "url_resolved": "http://radios.vpn.sapo.pt/AO/radio13.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=708",
-        "name": "CAZENGA"
-      },
-      {
-        "url_resolved": "http://radios.vpn.sapo.pt/AO/radio2.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=709",
-        "name": "RÁDIO UNIA"
-      },
-      {
-        "url_resolved": "http://radios.vpn.sapo.pt/AO/radio8.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=713",
-        "name": "RÁDIO ECCLESIA"
-      },
-      {
-        "url_resolved": "http://radios.vpn.sapo.pt/AO/radio12.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=714",
-        "name": "N'GOLA YETU"
-      },
-      {
-        "url_resolved": "http://radios.vpn.sapo.pt/AO/radio11.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=715",
-        "name": "RÁDIO LUANDA"
-      },
-      {
-        "url_resolved": "http://centova.radios.pt:9506",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=745",
-        "name": "Ultra FM"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radio-nostalgia",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=748",
-        "name": "Radio Nostalgia"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/asx/977_OLDIES_LO.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=749",
-        "name": ".977 - Oldies Channel"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/golden-50-70s-hits.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=751",
-        "name": "Golden 50/70s Hits"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/1000oldies.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=752",
-        "name": "1000 Oldies"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/goldies.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=753",
-        "name": "Big R Radio - Golden Oldies"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/super-oldies.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=755",
-        "name": "Super Oldies"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/1000-hits-sweet-radio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=756",
-        "name": "1000 HITSSweetRadio"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-goodtime",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=757",
-        "name": "181.FM Good Time Oldies"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/1000oldies.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=758",
-        "name": "1000 Oldies"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/nummer_1_oldies.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=759",
-        "name": "#1 Oldies"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/1HITS60s.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=763",
-        "name": "1HITS60s"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/60schartbusters",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=770",
-        "name": "60s Chartbusters"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/80s90s2khitsclassiccom",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=771",
-        "name": "80s 90s 2k"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/1000goldschlager.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=775",
-        "name": "1000 Goldschlager"
-      },
-      {
-        "url_resolved": "http://www.dollaraholler.com/classichitsplaylist128.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=780",
-        "name": "Carolina Classic Hits"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radiodigitalia-ricordi",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=787",
-        "name": "Radio Digitalia RICORDI"
-      },
-      {
-        "url_resolved": "http://www.nonsolosuoni.it/ascolto.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=790",
-        "name": "Nonsolosuoni Web Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-40s-wartime-music-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=791",
-        "name": "ABetterRadio.com - 40s Wartime Music"
-      },
-      {
-        "url_resolved": "http://www.stream-server.nl/streams/OldMen`sRadio.wax",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=792",
-        "name": "Old Men`s Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radiodigitalia-nostalgia",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=798",
-        "name": "Radio Digitalia Nostalgia"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radiooldiesmusic4ever.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=807",
-        "name": "Radio Oldies Music 4 Ever"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/spanisholdies/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=809",
-        "name": "1.FM - Exitos del Ayer"
-      },
-      {
-        "url_resolved": "http://www.lynxradionetwork.com/crikdiscoisdn.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=811",
-        "name": "Crik FM - The Lynx Disco Classics"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-oldies-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=813",
-        "name": "ABetterRadio.com -  Jukebox Oldies Station"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/45tours.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=814",
-        "name": "45Tours"
-      },
-      {
-        "url_resolved": "http://aceradio.net/asx/super70s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=815",
-        "name": "Ace Radio"
-      },
-      {
-        "url_resolved": "http://www.lynxradionetwork.com/crikisdn.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=816",
-        "name": "Crik FM - The Lynx Classic Hits"
-      },
-      {
-        "url_resolved": "http://keepfreemusic.com/allgold/allgold.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=817",
-        "name": "Allgold.ie - Music For Life!"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-lite90s",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=819",
-        "name": "181.FM Lite 90's"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-radio-70s-juice.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=820",
-        "name": "A.RADIO 70s Juice"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-70s-gold-hits-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=822",
-        "name": "ABetterRadio.com -  70s Gold Hits Station"
-      },
-      {
-        "url_resolved": "http://www.lolliradio.net/streaming/oldies.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=826",
-        "name": "LOLLIRADIO OLDIES"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/dive-bar-jukebox.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=828",
-        "name": "Dive Bar Jukebox Radio"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/70s/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=834",
-        "name": "1.FM - Absolute 70's Pop"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/jofox-radio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=835",
-        "name": "Jofox Radio"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/golds.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=837",
-        "name": "Hotmix Radio Golds"
-      },
-      {
-        "url_resolved": "http://www.ventureradio.co.uk/listen/venture.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=839",
-        "name": "Venture Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/alaska-hit-radio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=842",
-        "name": "Alaska Hit Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/el-dorado.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=844",
-        "name": "Radio El-Dorado"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/60s_70s/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=847",
-        "name": "1.FM - Back To The 50's & 60's"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-disco-inferno-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=855",
-        "name": "ABetterRadio.com - 70s Disco Inferno"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/classichitshitsclassiccom",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=858",
-        "name": "Classic Hits hitsclassic.com"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/jdh-radio.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=863",
-        "name": "JDH Radio"
-      },
-      {
-        "url_resolved": "http://cdn.voscast.com/resources/?key=3c32467849de7728c2329edb663eaefa&c=wmp",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=867",
-        "name": "Laurel Canyon Radio"
-      },
-      {
-        "url_resolved": "http://bigrradio.com/asx/70s80s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=877",
-        "name": "Big R Radio - 70s80s Pop Mix"
-      },
-      {
-        "url_resolved": "http://bigrradio.com/asx/80s90s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=878",
-        "name": "Big R Radio - 80s&90s Pop Mix"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/always-80s.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=879",
-        "name": "Always 80s"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-awesome80s",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=883",
-        "name": "181.FM Awesome 80's"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/magic80/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=884",
-        "name": "1.FM - Magic 80's"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=887",
-        "name": ".977 - 80's Hits"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-hairband",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=892",
-        "name": "181.FM 80's Hairband"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/windowsguide-80.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=893",
-        "name": "Hotmix Radio 80"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/101fm.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=895",
-        "name": "101 FM -  Sound der 60er 70er 80er 90er"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/satzentrale.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=900",
-        "name": "SATzentrale - Das Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/fm-80.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=904",
-        "name": "FM80"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/italopower",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=906",
-        "name": "Italopower!"
-      },
-      {
-        "url_resolved": "https://madein80.leswebradios.fr/live",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=912",
-        "name": "Madein80"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/nestor-fm.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=914",
-        "name": "NESTOR FM 80"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/ambiance80-s.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=916",
-        "name": "Ambiance 80's"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-radio-80s-juice.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=918",
-        "name": "A.RADIO 80s Juice"
-      },
-      {
-        "url_resolved": "http://begoodradio.com/asx/lite.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=919",
-        "name": "Be Good Radio"
-      },
-      {
-        "url_resolved": "http://bestnetradio.com/asx/newwave.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=920",
-        "name": "Best Net Radio - New Wave"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/80s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=923",
-        "name": "Big R Radio 80s FM"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-lite80s",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=926",
-        "name": "181.FM Lite 80's"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/80sfunkdancemusic.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=927",
-        "name": "80s Funk Dance Music"
-      },
-      {
-        "url_resolved": "http://begoodradio.com/asx/newwave.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=930",
-        "name": "Be Good Radio - 80s New Wave"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/disco/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=933",
-        "name": "1.FM - Disco Ball 70's-80's"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/wbmxcom-80-sr-b.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=934",
-        "name": "All 80s R&B Channel - WBMX.COM"
-      },
-      {
-        "url_resolved": "http://begoodradio.com/asx/rockmix.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=935",
-        "name": "Be Good Radio - 80s Rock Mix"
-      },
-      {
-        "url_resolved": "http://bestnetradio.com/asx/80sgalore.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=936",
-        "name": "Best Net Radio - 80s Galore"
-      },
-      {
-        "url_resolved": "http://aceradio.net/asx/soft80s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=937",
-        "name": "Ace Radio - The Soft 80s Channel"
-      },
-      {
-        "url_resolved": "http://bestnetradio.com/asx/80smellow.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=938",
-        "name": "Best Net Radio - 80s Mellow"
-      },
-      {
-        "url_resolved": "http://aceradio.net/asx/awesome80s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=939",
-        "name": "Ace Radio - The Awesome 80s"
-      },
-      {
-        "url_resolved": "http://202.fm/tuner.php?station=tsm-ultimate80s",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=940",
-        "name": "202.FM - Ultimate 80s"
-      },
-      {
-        "url_resolved": "http://aceradio.net/asx/hairband.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=941",
-        "name": "Ace Radio - Hairband Channel"
-      },
-      {
-        "url_resolved": "http://1980s.fm/modules/Listen/MP3-hi.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=945",
-        "name": "1980s.FM"
-      },
-      {
-        "url_resolved": "http://begoodradio.com/asx/mix.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=947",
-        "name": "BeGoodRadio - 80s Mix"
-      },
-      {
-        "url_resolved": "http://202.fm/tuner.php?station=tsm-lite80s",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=951",
-        "name": "202.FM - Lite 80's"
-      },
-      {
-        "url_resolved": "http://www.star104.net/stream/wm-80s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=952",
-        "name": "Star104 - The 80s Channel"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/wbmxcom-freestyleclassics.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=953",
-        "name": "All Freestyle Channel - WBMX.COM"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/acc80-s.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=954",
-        "name": "ACC 80'S"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/back280s/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=955",
-        "name": "1.FM - A List 80's"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/80sobsessionradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=956",
-        "name": "80s Obsession Radio"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/80s_90s/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=957",
-        "name": "1.FM - All Euro 80's"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-80s-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=958",
-        "name": "ABetterRadio.com - Awesome 80s Station"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-classicbuzz",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=959",
-        "name": "181.FM Classic Buzz (Alt)"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/purplewave",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=961",
-        "name": "ACC Purple Wave"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/skylyneradiopop1",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=965",
-        "name": "Skylyne Radio Pop"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/france80.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=967",
-        "name": "FRANCE80"
-      },
-      {
-        "url_resolved": "http://www.lynxradionetwork.com/crikretroisdn.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=968",
-        "name": "CRIK FM - The Lynx Retro 80s"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxwave.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=970",
-        "name": "Digital Impulse - New Wave '80s"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/1HITS80s.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=971",
-        "name": "1 HITS 80s"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/funmusicradio-69fm",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=973",
-        "name": "Fun-Music radio 69FM"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/subarashii.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=976",
-        "name": "Subarashii Radio Manga"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/euro4.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=988",
-        "name": "Euro4 Soundtracks"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/elium.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=990",
-        "name": "ELIUM Lounge & Trip Hop"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/cocktelera-blues.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1000",
-        "name": "Cocktelera Blues"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radiobluesmusic4ever.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1001",
-        "name": "Radio Blues Music 4 Ever"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxblues.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1002",
-        "name": "Digital Impulse - Blues"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/blues/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1004",
-        "name": "1.FM - Blues"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radio-mozart.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1017",
-        "name": "Radio Mozart"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/barock-music.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1018",
-        "name": "Baroque Music"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxclassical.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1049",
-        "name": "Digital Impulse - Classical"
-      },
-      {
-        "url_resolved": "http://www.solopianoradio.com/free/pianosolo64wma.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1050",
-        "name": "Whisperings - Solo Piano Radio"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/baroque/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1057",
-        "name": "1.FM - Otto's Baroque"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/masterworksradio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1062",
-        "name": "Masterworks Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-classical-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1070",
-        "name": "ABetterRadio.com - Classical Baroque"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/1000hitsclassicalmusic.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1076",
-        "name": "1000 HITS Classical"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1oneclassical.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1077",
-        "name": "A.1.ONE.CLASSICAL"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/euro9.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1078",
-        "name": "Euro9 Classic"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/aclassicfm-web.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1079",
-        "name": "A-CLASSIC-FM-WEB"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1onesymphony.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1080",
-        "name": "A.1.ONE.SYMPHONY"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1onebaroque.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1081",
-        "name": "A.1.ONE.BAROQUE"
-      },
-      {
-        "url_resolved": "http://www.countrymusic24.com/2live.wax",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1087",
-        "name": "Countrymusic24"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/1000countryhits.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1088",
-        "name": "1000 Countryhits"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radio-almrausch-volksmusik.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1089",
-        "name": "Radio Almrausch – Oberkrainer"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radio-almrausch.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1091",
-        "name": "Radio Almrausch - Schlager_Country"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/nashvilleedge.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1093",
-        "name": "NashvilleEdge"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/yimago-radio-1",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1102",
-        "name": "YimagoRadio1"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/countrygold.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1104",
-        "name": "Big R Radio - Country Gold"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1country-countrylegendsclassics",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1106",
-        "name": "A1 Country - Country Legends Radio"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/ccountry/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1107",
-        "name": "1.FM  - Classic Country"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-kickincountry",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1108",
-        "name": "181.FM Kickin' Country"
-      },
-      {
-        "url_resolved": "http://bestnetradio.com/asx/countryoldies.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1111",
-        "name": "Best Net Radio - Country Oldies"
-      },
-      {
-        "url_resolved": "http://202.fm/tuner.php?station=tsm-hotcountry",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1112",
-        "name": "202.FM - Hot Country"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/chasingyourdreamradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1114",
-        "name": "Chasing Your Dream Radio"
-      },
-      {
-        "url_resolved": "http://bestnetradio.com/asx/countrymix.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1119",
-        "name": "Best Net Radio - Country Mix"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/country/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1126",
-        "name": "1.FM - Country One"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-90scountry",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1128",
-        "name": "181.FM 90's Country"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/chcdixie",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1129",
-        "name": "CHC DIXIE"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-frontporch",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1130",
-        "name": "181.FM Front Porch (Bluegrass)"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-highway",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1132",
-        "name": "181.FM Highway 181"
-      },
-      {
-        "url_resolved": "http://2000fm.net/asx/country.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1133",
-        "name": "2000 FM - Country Hits"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/countrymix.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1139",
-        "name": "Big R Radio - Country Mix"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-country-legends-classics-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1140",
-        "name": "ABetterRadio.com -  Classic Country Station"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/acountry/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1141",
-        "name": "1.FM  - Absolute Country Hits"
-      },
-      {
-        "url_resolved": "http://bestnetradio.com/asx/2ktoday.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1144",
-        "name": "Best Net Radio - 2K and Today's Country"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1country-allamericancountryradio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1145",
-        "name": "A1 Country - All American Country"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-realcountry",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1146",
-        "name": "181.FM Real Country"
-      },
-      {
-        "url_resolved": "http://aceradio.net/asx/newcountry.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1148",
-        "name": "Ace Radio - The new Country"
-      },
-      {
-        "url_resolved": "http://aceradio.net/asx/countrymix.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1152",
-        "name": "Ace Radio - The Country Oldies"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1country-lightningcountryradio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1153",
-        "name": "A1 Country - Lightning Country Radio"
-      },
-      {
-        "url_resolved": "http://www.star104.net/stream/wm-country.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1159",
-        "name": "Star104 - The Country Channel"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1country-goodtimecountry",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1165",
-        "name": "A1 Country - Good Time Country"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1country-kickin-hitscountry",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1166",
-        "name": "A1 Country - Kickin' Hits Country"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/skylyneradioclassiccountry",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1167",
-        "name": "Skylyne Radio Classic Country"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/euro8.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1169",
-        "name": "Euro8 Country"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a1onecountry.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1170",
-        "name": "A.1.ONE.COUNTRY"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radio-country-family.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1171",
-        "name": "World Radio Country Family - WRCF"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/deepsideradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1174",
-        "name": "Deep Side Radio"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/1000discohits.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1176",
-        "name": "1000 Disco Hits"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/club93.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1180",
-        "name": "Club 93"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/klangwelt.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1184",
-        "name": "Klangwelt on laut.fm"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/addictive-eurodance.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1195",
-        "name": "Radio Eurodance Classic"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/fiive-radio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1196",
-        "name": "Five Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/thesedarkestemotions.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1198",
-        "name": "These Darkest Emotions EBM radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/dubsideradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1201",
-        "name": "Dubside Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/allectro-radio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1202",
-        "name": "AllectroRadio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/electronic-global-radio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1204",
-        "name": "Electronic Global Radio"
-      },
-      {
-        "url_resolved": "http://streaming.advancehost.com.br/player/8212/mediaplayer.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1205",
-        "name": "America Dance 90"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxcasw.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1211",
-        "name": "Digital Impulse - House"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxrik.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1212",
-        "name": "Digital Impulse - Techno"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxpulsar.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1214",
-        "name": "Digital Impulse - Pulsar Recordings Trance"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxpop.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1216",
-        "name": "Digital Impulse - Funk & Electro Swing"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asx80s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1217",
-        "name": "Digital Impulse - Disco '80s"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxtrance.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1219",
-        "name": "Digital Impulse - Trance"
-      },
-      {
-        "url_resolved": "http://www.deephouselounge.com/Listen_Links/playlist.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1224",
-        "name": "EEP HOUSE LOUNGE"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/deephouse/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1230",
-        "name": "1.FM - Deep House"
-      },
-      {
-        "url_resolved": "http://streams.nexusradio.fm/dance/windows.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1231",
-        "name": "Nexus Dance.  This Is Nexus!"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/trance/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1233",
-        "name": "1.FM - Absolute Trance"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/chilloutlounge/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1235",
-        "name": "1.FM - Chillout Lounge"
-      },
-      {
-        "url_resolved": "http://entranced.fm/modules/Listen/MP3-hi.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1259",
-        "name": "Entranced.FM"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/dance/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1262",
-        "name": "1.FM - Dance"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/psytrance/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1266",
-        "name": "1.FM - BOM Psytrance"
-      },
-      {
-        "url_resolved": "http://www.dnbradio.com/hi.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1270",
-        "name": "DnbRadio"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/90s/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1289",
-        "name": "1.FM - Absolute 90's"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/perfectradiouk.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1297",
-        "name": "Perfect Radio UK"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/1-radio-dance.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1298",
-        "name": "1 Radio Dance"
-      },
-      {
-        "url_resolved": "http://stream.cdm-chillout.com:8012/stream-mp3-Deep",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1300",
-        "name": "Costa Del Mar - Deep House"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/eurodance-90.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1302",
-        "name": "Eurodance 90"
-      },
-      {
-        "url_resolved": "http://www.pulsradio.com/pls/puls-adsl.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1304",
-        "name": "PulsRadio - Dance Non Stop"
-      },
-      {
-        "url_resolved": "http://icecast.pulsradio.com/hitpartyHD.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1305",
-        "name": "HIT Party"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-dancefloor-fm-web.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1308",
-        "name": "A-DANCEFLOOR-FM-WEB"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/windowsguide-dance.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1309",
-        "name": "Hotmix Radio Dance"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/dancero.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1312",
-        "name": "Dance.RO"
-      },
-      {
-        "url_resolved": "http://www.pulsradio.com/pls/pulstrance-wmp.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1313",
-        "name": "100.0 PulsRadio Trance"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/windowsguide-funky.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1315",
-        "name": "Hotmix Radio Disco"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/ambient-and-lounge.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1318",
-        "name": "Ambient and Lounge"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/beautiful-mix.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1321",
-        "name": "BeautifulMix"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/playweekmat-v.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1323",
-        "name": "PWM Webradio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/abcdancegold.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1328",
-        "name": "ABC Dance Gold"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/abcdancehouse.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1332",
-        "name": "ABC Dance House"
-      },
-      {
-        "url_resolved": "http://streamingv2.shoutcast.com/Atomik-Radio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1337",
-        "name": "Atomik Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-disco-fm-web.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1338",
-        "name": "A-DISCO-FM-WEB"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radioactifmusic",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1340",
-        "name": "RadioActif Music"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/italiadancemusicwebradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1344",
-        "name": "Italia Dance Music"
-      },
-      {
-        "url_resolved": "http://www.lolliradio.net/streaming/dance.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1345",
-        "name": "LOLLIRADIO DANCE"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-radio-top-40-dance.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1347",
-        "name": "A.RADIO Top 40 Dance"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/kosmik-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1348",
-        "name": "Kosmik Station"
-      },
-      {
-        "url_resolved": "http://sanfm.ru/drum.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1349",
-        "name": "SanFM.ru Drum'n'bass Stream - www.SanFM.ru"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/move-danceradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1351",
-        "name": "Move! Dance Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/crystalradiobeautifulmusic",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1367",
-        "name": "Crystal Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/amazinglitemusiccom.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1372",
-        "name": "AmazingLiteMusic.com"
-      },
-      {
-        "url_resolved": "http://bestnetradio.com/asx/coffeehouse.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1373",
-        "name": "Best Net Radio - Coffee House"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/1016.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1374",
-        "name": "Big R Radio - 101.6"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/asx/977_MIX_LO.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1375",
-        "name": ".977 - The Mix Channel"
-      },
-      {
-        "url_resolved": "http://klux.org/stream/listenlive.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1377",
-        "name": "KLUX 89.5 - Good Company"
-      },
-      {
-        "url_resolved": "http://avbhost.com/listen/jimfm/jim128.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1381",
-        "name": "Jim FM"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-office-hits-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1383",
-        "name": "ABetterRadio.com -  Office Hits Station"
-      },
-      {
-        "url_resolved": "http://aceradio.net/asx/softhits.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1384",
-        "name": "Ace Radio - Soft Hits Channel"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/70s.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1385",
-        "name": "Big R Radio - 70s FM"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/oldschool/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1391",
-        "name": "1.FM - Adult Urban Hits Choice"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-love-songs-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1392",
-        "name": "ABetterRadio.com -  Love Songs Station"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/2loveradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1402",
-        "name": "Love Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/losmegaexitos",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1403",
-        "name": "Los Megaexitos"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/trop-beautiful.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1404",
-        "name": "TropBeautiful"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/windowsguide-90.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1405",
-        "name": "Hotmixr Radio 90"
-      },
-      {
-        "url_resolved": "http://www.b4bradio.com/flux/love-classics.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1406",
-        "name": "B4B Love Classics"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/windowsguide-frenchy.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1407",
-        "name": "Hotmixradio Frenchy"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/goldies-time.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1408",
-        "name": "Goldies Time"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/2000.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1410",
-        "name": "Hotmix Radio 2000"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/pop-n-love.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1411",
-        "name": "Pop'N'lovE"
-      },
-      {
-        "url_resolved": "http://www.b4bradio.com/flux/dance-hit.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1413",
-        "name": "B4B Dance 80s - 90s"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/madein90.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1414",
-        "name": "Madein90"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/modem-radio-pricipal.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1416",
-        "name": "Modem radio France"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/castelfm-antenne.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1419",
-        "name": "Castel FM"
-      },
-      {
-        "url_resolved": "http://www.radiololgiata.net/olgiata.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1422",
-        "name": "Radio L'Olgiata.Net HD"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/portofinonetwork",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1424",
-        "name": "Portofino Network"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/passionloveradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1427",
-        "name": "Passion.Love.Radio"
-      },
-      {
-        "url_resolved": "http://zradio.org/streams/Z88-128S.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1436",
-        "name": "Positive Hits - Z88.3"
-      },
-      {
-        "url_resolved": "http://klrc.streamguys1.com/klrc-aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1446",
-        "name": "KLRC - The Positive Difference"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/gospel.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1448",
-        "name": "1Faith FM - Gospel Channel"
-      },
-      {
-        "url_resolved": "http://azulweb.streamguys.com/allworship-instr.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1450",
-        "name": "AllWorship Instrumental Worship"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/acpl/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1452",
-        "name": "1.FM - Acappella"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/hits.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1453",
-        "name": "1Faith FM - Hits Channel"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-better-christian-station.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1458",
-        "name": "ABetterRadio.com -  Christian Praise Station"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/heartradiousa.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1467",
-        "name": "Heart Radio USA"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/starsmusic.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1469",
-        "name": "StarsMusic"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/missionweb.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1470",
-        "name": "missionweb"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/schlagerweihnacht.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1472",
-        "name": "Schlagerweihnacht"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/halloweenradionet",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1475",
-        "name": "Halloweenradio.net"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/halloween.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1485",
-        "name": "Big R Radio - The Halloween Channel"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/christmas/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1489",
-        "name": "1.FM - Always Christmas"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/abetterchristmasradiostation-abetterradiocom.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1491",
-        "name": "ABetterRadio.com - Christmas & Holiday Hits"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-xtraditional",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1502",
-        "name": "181.FM Christmas Classics"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/electrozombies.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1522",
-        "name": "Electrozombies"
-      },
-      {
-        "url_resolved": "http://www.blurfm.com/streams/asx/blurfm.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1525",
-        "name": "Blur FM - Buenos Aires Argentina"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/ukrockradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1526",
-        "name": "UK Rock Radio"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-chloe",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1535",
-        "name": "181.FM Chloe @181.FM"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/gorillafm/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1539",
-        "name": "1.FM - Gorilla FM"
-      },
-      {
-        "url_resolved": "http://thedetour.us/player/wm-high.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1540",
-        "name": "Detour Music"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/cws.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1547",
-        "name": "CWS Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/teez-fm.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1549",
-        "name": "TEEZ'FM"
-      },
-      {
-        "url_resolved": "http://andhow.org/playlists/masterlist.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1550",
-        "name": "andHow.FM"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/kriola.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1559",
-        "name": "Radio Kriola"
-      },
-      {
-        "url_resolved": "http://stream.laut.fm/eswirdmorgen.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1563",
-        "name": "Es wird Morgen"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/djsiranfm.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1565",
-        "name": "DJSiran.FM"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/hotworldradio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1585",
-        "name": "Hot World Radio"
-      },
-      {
-        "url_resolved": "http://byblosradio.com/live128.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1587",
-        "name": "ByblosRadio.com"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/miziziworldmusicradio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1591",
-        "name": "Mizizi World Music Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/mintmusic.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1592",
-        "name": "Mint Music Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/afrobeatsnation.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1594",
-        "name": "Afrobeats Nation"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/sepia.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1598",
-        "name": "Sépia Méditerranée"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/kulturarteradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1600",
-        "name": "Kulturarte Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/lesondumouton.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1601",
-        "name": "Le Son Du Mouton"
-      },
-      {
-        "url_resolved": "http://www.lolliradio.net/streaming/italia.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1606",
-        "name": "LOLLIRADIO ITALIA"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radiodigitalia-musica-italiana",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1607",
-        "name": "Radio Digitalia MUSICA ITALIANA"
-      },
-      {
-        "url_resolved": "http://www.lolliradio.net/streaming/happy.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1611",
-        "name": "LOLLIRADIO HAPPY STATION"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/hitradio-liberty",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1617",
-        "name": "hitradio Liberty"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radioel-doradonl",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1618",
-        "name": "Radio El-Dorado-nl"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/anzofm.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1620",
-        "name": "AnZoRadio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/dakarmusique.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1622",
-        "name": "Dakar Musique"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/marciabaila.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1624",
-        "name": "Radio Marcia Baila"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/allegro-jazz.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1630",
-        "name": "Allegro Jazz"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/play-misty-for-me.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1631",
-        "name": "Play-Misty-For-Me"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/belote-en-ligne.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1633",
-        "name": "Belote-en-ligne"
-      },
-      {
-        "url_resolved": "https://orion.shoutca.st/tunein/asxjyzz.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1643",
-        "name": "Digital Impulse - Jazz"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/jazzlovers",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1656",
-        "name": "Jazz Lovers Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/classicaljazzradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1657",
-        "name": "Classical Jazz Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/jazzvespersradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1658",
-        "name": "Jazz Vespers Radio"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_SMOOJAZZ.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1663",
-        "name": ".977 - Smooth Jazz Channel"
-      },
-      {
-        "url_resolved": "http://96.92.63.241:8006/listen.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1665",
-        "name": "Jazzerainious"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/bossanova/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1681",
-        "name": "1.FM - Bossa Nova Hits"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/gospeljazzradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1683",
-        "name": "Gospel Jazz Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/thebocx.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1695",
-        "name": "The BocX"
-      },
-      {
-        "url_resolved": "http://aceradio.net/asx/vocaljazz.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1697",
-        "name": "Ace Radio - Vocal Jazz"
-      },
-      {
-        "url_resolved": "http://airlessradio.com/listen/asx/jazzjubilee.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1703",
-        "name": "Airless Radio - Jazz Jubilee"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/andernos-la-radio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1706",
-        "name": "Andernos La Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/abcrelax.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1708",
-        "name": "ABC Relax"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/baie-des-anges-clubbing",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1711",
-        "name": "Baie Des Anges Clubbing"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/a-jazz-fm-web.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1712",
-        "name": "A-JAZZ-FM-WEB"
-      },
-      {
-        "url_resolved": "http://sanfm.ru/relax.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1714",
-        "name": "SanFM.ru Relax"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/thefunkystation.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1716",
-        "name": "The Funky Station"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/theloungejazzradio",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1717",
-        "name": "The Lounge Jazz Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radiopuntodecuba.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1718",
-        "name": "Radio Punto de Cuba"
-      },
-      {
-        "url_resolved": "https://stream.laut.fm/radiocampesinacubana?ref=radiode",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1720",
-        "name": "Radio Campesina Cubana"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radiollanera.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1721",
-        "name": "Radio Llanera"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/losgrandesgruposradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1722",
-        "name": "Los Grandes Grupos Radio"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/viva-el-mariachi.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1723",
-        "name": "Viva El Mariachi"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/aurora-de-siempre.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1725",
-        "name": "Aurora de Siempre"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/grupera-central.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1726",
-        "name": "Grupera Central"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/romanticadigital.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1734",
-        "name": "Romantica Digital"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/lha105.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1735",
-        "name": "Latino Hits Amor 105"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/ondamixfm.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1736",
-        "name": "Onda Mix FM"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-salsa",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1739",
-        "name": "181.FM Salsa"
-      },
-      {
-        "url_resolved": "http://www.star104.net/stream/wm-latin.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1760",
-        "name": "Estrella104 - The Latin Hits Channel"
-      },
-      {
-        "url_resolved": "http://wm.1.fm/latino/128.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1761",
-        "name": "1.FM - Absolute Pop Latino"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/radio-cubana.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1783",
-        "name": "Radio Cubana"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/cubania.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1784",
-        "name": "CUBANIA"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/euro7.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1786",
-        "name": "Euro7 Latino"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/miss-104.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1788",
-        "name": "Miss 104 FM"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/metalrock06.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1792",
-        "name": "MetalRock06"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/crucialvelocityradio.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1794",
-        "name": "Crucial Velocity Radio"
-      },
-      {
-        "url_resolved": "http://www.bigrradio.com/asx/80smetal.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1799",
-        "name": "Big R Radio - 80s Metal"
-      },
-      {
-        "url_resolved": "http://bestnetradio.com/asx/80smetal.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1801",
-        "name": "Best Net Radio - 80s Metal"
-      },
-      {
-        "url_resolved": "http://death.fm/modules/Listen/MP3-hi.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1803",
-        "name": "Death.FM"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/skylyneradiopowerrock1",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1823",
-        "name": "Skylyne Radio Power Rock"
-      },
-      {
-        "url_resolved": "http://79.120.77.11:8000/powermetal",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1824",
-        "name": "Metal Power"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/goth-n-metal.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1825",
-        "name": "Goth'N'Metal"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/metal-arena.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1826",
-        "name": "Metal Arena"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/floatspafm.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1832",
-        "name": "Float Spa"
-      },
-      {
-        "url_resolved": "http://listen.radionomy.com/frequences-relaxation.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1833",
-        "name": "Frequences Relaxation"
-      },
-      {
-        "url_resolved": "http://centova.radios.pt:9522/stream",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1835",
-        "name": "Radio Nove3Cinco"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-eagle",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1836",
-        "name": "181.fm - Eagle Classic Rock"
-      },
-      {
-        "url_resolved": "http://www.181.fm/stream/tuner/181-greatoldies",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1838",
-        "name": "181.fm - Classic Hits Great Oldies"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/windowsguide-hits.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1839",
-        "name": "Hotmix Radio Hits"
-      },
-      {
-        "url_resolved": "http://www.hotmixradio.fr/stream/windowsguide-new.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1840",
-        "name": "Hotmix Radio New"
-      },
-      {
-        "url_resolved": "https://proic1.evspt.com/oxigenio_aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1845",
-        "name": "Rádio Oxigénio"
-      },
-      {
-        "url_resolved": "https://centova.radios.pt/proxy/499?mp=/stream/1/",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1848",
-        "name": "Marginal"
-      },
-      {
-        "url_resolved": "https://proic1.evspt.com/radar_aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1849",
-        "name": "Radar"
-      },
-      {
-        "url_resolved": "http://centova.radios.pt:8435",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1851",
-        "name": "Nostalgia"
-      },
-      {
-        "url_resolved": "http://live.top80.fm:8086/",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1857",
-        "name": "TOP 80"
-      },
-      {
-        "url_resolved": "http://centova.radios.pt:8475",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1858",
-        "name": "Torres Novas FM"
-      },
-      {
-        "url_resolved": "http://mcrscast.mcr.iol.pt/cidadefm",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1902",
-        "name": "Cidade FM"
-      },
-      {
-        "url_resolved": "https://22533.live.streamtheworld.com/RFMAAC.aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1903",
-        "name": "RFM"
-      },
-      {
-        "url_resolved": "https://20043.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1904",
-        "name": "RFM - Dance Floor"
-      },
-      {
-        "url_resolved": "http://mcrscast.mcr.iol.pt/m80",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1905",
-        "name": "RFM - Oitentas"
-      },
-      {
-        "url_resolved": "https://23603.live.streamtheworld.com/OCEANPACIFICAAC.aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1906",
-        "name": "RFM - Oceano Pacifico"
-      },
-      {
-        "url_resolved": "http://tsfdirecto.tsf.pt/tsfdirecto.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1907",
-        "name": "Radio TSF"
-      },
-      {
-        "url_resolved": "https://centova.radios.pt/proxy/478?mp=/stream/1/",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1909",
-        "name": "Radio Nova Era"
-      },
-      {
-        "url_resolved": "http://mcrscast1.mcr.iol.pt/comercial.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1910",
-        "name": "Radio Comercial"
-      },
-      {
-        "url_resolved": "https://22533.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1911",
-        "name": "RFM - On The Rock"
-      },
-      {
-        "url_resolved": "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1912",
-        "name": "RTL"
-      },
-      {
-        "url_resolved": "https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1913",
-        "name": "Radio Deejay"
-      },
-      {
-        "url_resolved": "http://51.255.118.192:8020/stream/1/",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1914",
-        "name": "RDS"
-      },
-      {
-        "url_resolved": "http://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1915",
-        "name": "Radio Italia"
-      },
-      {
-        "url_resolved": "http://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1916",
-        "name": "Radio 24"
-      },
-      {
-        "url_resolved": "https://ice08.fluidstream.net/KissKiss.aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1917",
-        "name": "Radio Kiss Kiss"
-      },
-      {
-        "url_resolved": "https://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1918",
-        "name": "Radio Capital"
-      },
-      {
-        "url_resolved": "http://edge.radiomontecarlo.net/RMC.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1919",
-        "name": "Radio Montecarlo"
-      },
-      {
-        "url_resolved": "http://icecast.unitedradio.it/Radio105.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1922",
-        "name": "Radio 105 Network"
-      },
-      {
-        "url_resolved": "http://icy.unitedradio.it/105Hits.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1923",
-        "name": "Radio 105 Hits"
-      },
-      {
-        "url_resolved": "http://icy.unitedradio.it/105Classics.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1924",
-        "name": "Radio 105 Classics"
-      },
-      {
-        "url_resolved": "http://icy.unitedradio.it/105Zoo.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1925",
-        "name": "Radio 105 Zoo"
-      },
-      {
-        "url_resolved": "http://icy.unitedradio.it/105Story.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1926",
-        "name": "Radio 105 Story"
-      },
-      {
-        "url_resolved": "http://icy.unitedradio.it/105HipHopRnB.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1927",
-        "name": "Radio 105 Hip Hop"
-      },
-      {
-        "url_resolved": "http://icy.unitedradio.it/105InDaKlubb.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1928",
-        "name": "Radio 105 Indaklubb"
-      },
-      {
-        "url_resolved": "http://icestreaming.rai.it/1.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1929",
-        "name": "Rai Radio 1"
-      },
-      {
-        "url_resolved": "http://icestreaming.rai.it/2.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1930",
-        "name": "Rai Radio 2"
-      },
-      {
-        "url_resolved": "http://icestreaming.rai.it/3.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1931",
-        "name": "Rai Radio 3"
-      },
-      {
-        "url_resolved": "http://icestreaming.rai.it/11.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1932",
-        "name": "Rai Radio Kids"
-      },
-      {
-        "url_resolved": "http://icestreaming.rai.it/7.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1933",
-        "name": "Rai Gr Parlamento"
-      },
-      {
-        "url_resolved": "http://icestreaming.rai.it/6.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1934",
-        "name": "Rai isoradio"
-      },
-      {
-        "url_resolved": "http://icestreaming.rai.it/5.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1935",
-        "name": "Rai Radio Classica"
-      },
-      {
-        "url_resolved": "http://audio.radio24.ilsole24ore.com/radio24_audio/settimanali/gr.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1936",
-        "name": "Gr 24 Notizie"
-      },
-      {
-        "url_resolved": "http://audio.radio24.ilsole24ore.com/radio24_audio/settimanali/24m.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1937",
-        "name": "GR 24 Borse"
-      },
-      {
-        "url_resolved": "http://icecast.unitedradio.it/r101_mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1938",
-        "name": "R101"
-      },
-      {
-        "url_resolved": "http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_48_a-p.m3u8",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1940",
-        "name": "m2o"
-      },
-      {
-        "url_resolved": "http://onair11.xdevel.com:8014/;stream.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1942",
-        "name": "Radio Pico Classic"
-      },
-      {
-        "url_resolved": "http://onair7.xdevel.com:8724/;stream.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1943",
-        "name": "Fm Classic"
-      },
-      {
-        "url_resolved": "http://edge.radiomontecarlo.net/rmcweb001",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1944",
-        "name": "RMC hits"
-      },
-      {
-        "url_resolved": "http://onair18.xdevel.com:8098/;stream.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1945",
-        "name": "Radio Gamma"
-      },
-      {
-        "url_resolved": "http://icecast.unitedradio.it/Virgin.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1946",
-        "name": "Virgin Radio"
-      },
-      {
-        "url_resolved": "http://icy.unitedradio.it/VirginRockAlternative.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1947",
-        "name": "Virgin Rock Arternative"
-      },
-      {
-        "url_resolved": "http://edge.radiomontecarlo.net/rmcweb006",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1950",
-        "name": "RMC Love Songs"
-      },
-      {
-        "url_resolved": "http://edge.radiomontecarlo.net/rmcweb008",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1951",
-        "name": "RMC 80 "
-      },
-      {
-        "url_resolved": "http://edge.radiomontecarlo.net/rmcweb009",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1952",
-        "name": "RMC 90"
-      },
-      {
-        "url_resolved": "http://edge.radiomontecarlo.net/rmcweb005",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1953",
-        "name": "RMC Italia"
-      },
-      {
-        "url_resolved": "http://edge.radiomontecarlo.net/rmcweb007",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1954",
-        "name": "RMC Great Artists"
-      },
-      {
-        "url_resolved": "http://edge.radiomontecarlo.net/rmcweb010",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1955",
-        "name": "RMC Marine"
-      },
-      {
-        "url_resolved": "http://livex.radiopopolare.it/radiopop",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1958",
-        "name": "Radio Popolare"
-      },
-      {
-        "url_resolved": "http://onair11.xdevel.com:9990/;stream/1",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1960",
-        "name": "Radionorbar"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1966",
-        "name": ".977 - Today's Hits"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_90.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1967",
-        "name": ".977 - 90's Hits"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRY.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1968",
-        "name": ".977 - Country Hits"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCK.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1969",
-        "name": ".977 - 70's Rock"
-      },
-      {
-        "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1970",
-        "name": ".977 - HipHop RNB"
-      },
-      {
-        "url_resolved": "http://stream08.iloveradio.de/iloveradio2.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1972",
-        "name": "I LOVE 2 DANCE - House & EDM DJ-Mix"
-      },
-      {
-        "url_resolved": "http://listen.181fm.com/181-power_128k.mp3?listenerid=f0157f3fa579edc3efbcb8ef0e4492d5&esPlayer&cb=736282.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1973",
-        "name": "181.FM Power 181 (TOP 40)"
-      },
-      {
-        "url_resolved": "http://centova.radios.pt:8465/stream",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1974",
-        "name": "Emissora das Beiras"
-      },
-      {
-        "url_resolved": "http://centova.radios.pt:9456/stream/1/",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1976",
-        "name": "Antena Livre de Gouveia"
-      },
-      {
-        "url_resolved": "https://nl.digitalrm.pt:8042/stream",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1977",
-        "name": "RCS"
-      },
-      {
-        "url_resolved": "https://25703.live.streamtheworld.com/MEGA_HITSAAC.aac",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1978",
-        "name": "Mega Hits"
-      },
-      {
-        "url_resolved": "http://mcrscast.mcr.iol.pt/m80",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1979",
-        "name": "M80 FM"
-      },
-      {
-        "url_resolved": "http://streaming.radio.funradio.fr/fun-1-44-128",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1980",
-        "name": "Fun Radio"
-      },
-      {
-        "url_resolved": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=radio.net",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1981",
-        "name": "Energy"
-      },
-      {
-        "url_resolved": "https://latinawork.ice.infomaniak.ch/latinawork.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1982",
-        "name": "Latina Work"
-      },
-      {
-        "url_resolved": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1983",
+        "id": 58,
         "name": "Latina"
       },
       {
-        "url_resolved": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1984",
+        "id": 59,
+        "name": "Classic Rock"
+      },
+      {
+        "id": 60,
+        "name": "Comedy"
+      },
+      {
+        "id": 61,
+        "name": "Urban"
+      },
+      {
+        "id": 62,
+        "name": "Hip Hop"
+      },
+      {
+        "id": 63,
+        "name": "The 80's"
+      },
+      {
+        "id": 64,
+        "name": "The 90's"
+      },
+      {
+        "id": 68,
+        "name": "Dance Hits"
+      },
+      {
+        "id": 73,
+        "name": "Metal"
+      },
+      {
+        "id": 78,
+        "name": "Salsa"
+      },
+      {
+        "id": 79,
+        "name": "Mexico"
+      },
+      {
+        "id": 80,
+        "name": "Colombia"
+      },
+      {
+        "id": 81,
+        "name": "American + Roots"
+      },
+      {
+        "id": 82,
+        "name": "Soundtracks + Musicals"
+      },
+      {
+        "id": 84,
+        "name": "Dance + Electronica"
+      },
+      {
+        "id": 86,
+        "name": "Adult Hits"
+      },
+      {
+        "id": 87,
+        "name": "Cristian Hits"
+      },
+      {
+        "id": 88,
+        "name": "Holiday"
+      },
+      {
+        "id": 89,
+        "name": "Independent"
+      },
+      {
+        "id": 91,
+        "name": "Angola"
+      },
+      {
+        "id": 92,
+        "name": "Italia"
+      },
+      {
+        "id": 93,
+        "name": "France"
+      }
+    ]
+  },
+  "last_update": "18:05:40 10-12-2021",
+  "version": "1639159540",
+  "radios": {
+    "items": [
+      {
+        "url": "https://centova.radio.com.pt/proxy/401?mp=/stream",
+        "id": 22,
+        "type": 47,
+        "name": "Radio Orbital"
+      },
+      {
+        "url": "http://live.noite.pt:8080/;",
+        "id": 25,
+        "type": 47,
+        "name": "Noite FM"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
+        "id": 36,
+        "type": 40,
+        "name": ".977 - Top 40 Pop and Rock Hitz"
+      },
+      {
+        "url": "https://listen.181fm.com/181-energy98_128k.mp3",
+        "id": 41,
+        "type": 39,
+        "name": "Energy 98"
+      },
+      {
+        "url": "http://www.pulsradio.com/pls/puls-adsl.m3u",
+        "id": 64,
+        "type": 40,
+        "name": "Pulsradio - Hits Non Stop"
+      },
+      {
+        "url": "http://www.pulsradio.com/pls/pulstrance-adsl.m3u",
+        "id": 65,
+        "type": 39,
+        "name": "Pulsradio - Trance Non Stop"
+      },
+      {
+        "url": "http://www.977music.com/tunein/web/jamz.asx",
+        "id": 88,
+        "type": 61,
+        "name": "Club 997 - Urban Jamz"
+      },
+      {
+        "url": "http://somafm.com/wma128/dronezone.asx",
+        "id": 108,
+        "type": 54,
+        "name": "Soma FM - Atmospheric Ambient SPA"
+      },
+      {
+        "url": "http://somafm.com/wma128/groovesalad.asx",
+        "id": 109,
+        "type": 39,
+        "name": "Soma FM - Groove Salad Lounge"
+      },
+      {
+        "url": "http://somafm.com/wma128/indiepop.asx",
+        "id": 110,
+        "type": 45,
+        "name": "Soma FM - Rock"
+      },
+      {
+        "url": "http://somafm.com/wma128/lush.asx",
+        "id": 111,
+        "type": 46,
+        "name": "Soma FM - Lush"
+      },
+      {
+        "url": "http://somafm.com/wma128/beatblender.asx",
+        "id": 112,
+        "type": 46,
+        "name": "Soma FM - Beat Blender"
+      },
+      {
+        "url": "http://somafm.com/wma128/suburbsofgoa.asx",
+        "id": 113,
+        "type": 46,
+        "name": "Soma FM - Suburbs of Goa"
+      },
+      {
+        "url": "http://somafm.com/wma128/bootliquor.asx",
+        "id": 115,
+        "type": 46,
+        "name": "Soma FM - Boot Liquor"
+      },
+      {
+        "url": "http://somafm.com/wma128/missioncontrol.asx",
+        "id": 116,
+        "type": 39,
+        "name": "Soma FM - Mission Control Mix"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_ALTERN.mp3",
+        "id": 135,
+        "type": 45,
+        "name": ".977 - Alternative Rock"
+      },
+      {
+        "url": "http://relaxingjazz.com/broadband.asx",
+        "id": 137,
+        "type": 41,
+        "name": "RelaxingJazz"
+      },
+      {
+        "url": "http://www.soma.fm/indiepop.asx",
+        "id": 143,
+        "type": 45,
+        "name": "SomaFM - Indie Pop Rocks"
+      },
+      {
+        "url": "http://www.swissradio.ch/streams/6034.asx",
+        "id": 150,
+        "type": 36,
+        "name": "Swiss Internet Radio"
+      },
+      {
+        "url": "http://listen.to.techno4ever.net/dsl/mp3",
+        "id": 160,
+        "type": 39,
+        "name": "Techno4ever Radio"
+      },
+      {
+        "url": "http://magnatune.com/genres/m3u/classical.m3u",
+        "id": 164,
+        "type": 36,
+        "name": "Magnatune Classical"
+      },
+      {
+        "url": "http://asx.abacast.com/kcsm-kcsmwmp641-64.asx",
+        "id": 165,
+        "type": 41,
+        "name": "KCSM Jass 91.1 FM"
+      },
+      {
+        "url": "http://www.hot108.com/hot108jamz.asx",
+        "id": 176,
+        "type": 62,
+        "name": "Hot 108 Jamz"
+      },
+      {
+        "url": "http://www.folkalley.com/folkalley.asx",
+        "id": 178,
+        "type": 81,
+        "name": "Folk Alley"
+      },
+      {
+        "url": "http://www.country108.com/listen.asx",
+        "id": 203,
+        "type": 37,
+        "name": "Country 108"
+      },
+      {
+        "url": "http://www.lolliradio.net/streaming/soft.asx",
+        "id": 226,
+        "type": 54,
+        "name": "Lolli Radio Soft"
+      },
+      {
+        "url": "http://www.klux.org/stream/listenlive.asx",
+        "id": 227,
+        "type": 54,
+        "name": "Klux 89.5HD"
+      },
+      {
+        "url": "http://www.dinamo.fm/dinamo_wmp3.asx",
+        "id": 237,
+        "type": 39,
+        "name": "Dinamo.fm"
+      },
+      {
+        "url": "http://audiostreamen.nl:8010/",
+        "id": 249,
+        "type": 55,
+        "name": "Radio Moonlight"
+      },
+      {
+        "url": "http://www.fbcradio.org/fbcradio.asx",
+        "id": 261,
+        "type": 56,
+        "name": "FBC Radio"
+      },
+      {
+        "url": "http://beirutnights.com/livehi.asx",
+        "id": 268,
+        "type": 84,
+        "name": "BeirutNights"
+      },
+      {
+        "url": "http://byblosradio.com/live.asx",
+        "id": 269,
+        "type": 57,
+        "name": "ByblosRadio"
+      },
+      {
+        "url": "http://stream.latinofm.de/latinofm.mp3",
+        "id": 296,
+        "type": 58,
+        "name": "Latino FM"
+      },
+      {
+        "url": "http://www.star104.net/stream/wm-oldies.asx",
+        "id": 307,
+        "type": 36,
+        "name": "Listen From Star "
+      },
+      {
+        "url": "http://useless.enation.fm/geo/stream.php?mode=asx",
+        "id": 318,
+        "type": 84,
+        "name": "Enation FM"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/windowsguide-rock.asx",
+        "id": 327,
+        "type": 45,
+        "name": "Hotmix Radio Rock"
+      },
+      {
+        "url": "http://www.star104.net/stream/wm-comedy.asx",
+        "id": 337,
+        "type": 60,
+        "name": "Comedy 104"
+      },
+      {
+        "url": "http://www.radionz.co.nz/audio/live/concert/adaptive.asx",
+        "id": 351,
+        "type": 36,
+        "name": "Radio New Zealand Concert"
+      },
+      {
+        "url": "http://www.relaxingjazz.com/broadband.asx",
+        "id": 355,
+        "type": 41,
+        "name": "Relaxing Jazz"
+      },
+      {
+        "url": "http://listen.radionomy.com/radio-mozart",
+        "id": 437,
+        "type": 36,
+        "name": "Radio Mozart"
+      },
+      {
+        "url": "https://rmnrelax.schlagerparadies.de/rmnrelax",
+        "id": 467,
+        "type": 38,
+        "name": "RMNrelax - the relaxed chillout station"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://radio.musicfactory.gr:9000/listen.pls&t=.m3u",
+        "id": 480,
+        "type": 38,
+        "name": "MUSIC FACTORY ATHENS RADIO greece "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8004/listen.pls&t=.m3u",
+        "id": 494,
+        "type": 41,
+        "name": "181.fm - The Breeze "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://naxidigital128.kbcnet.rs:8020/listen.pls&t=.m3u",
+        "id": 500,
+        "type": 64,
+        "name": "NAXI CAFE RADIO by KBC NET (NAXI,"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://online.radiodifusion.net:8054/listen.pls&t=.m3u",
+        "id": 538,
+        "type": 49,
+        "name": "Radio Reggae "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://tuner.classical102.com/listen.pls&t=.m3u",
+        "id": 541,
+        "type": 36,
+        "name": "CLASSICAL 102 - The First Class In Music"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8020/listen.pls&t=.m3u",
+        "id": 548,
+        "type": 36,
+        "name": "181.FM - Classical Guitar "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://war.str3am.com:7320/listen.pls&t=.m3u",
+        "id": 552,
+        "type": 36,
+        "name": "WMNR Fine Arts Radio "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://streaming.promomedios.com:8008/listen.pls&t=.m3u",
+        "id": 554,
+        "type": 36,
+        "name": "XHMBM - MILLENIUM BELLA MUSICA"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://tuner.jackfm.de/listen.pls&t=.m3u",
+        "id": 559,
+        "type": 44,
+        "name": "JACK FM - ALL HIT RADIO"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8002/listen.pls&t=.m3u",
+        "id": 560,
+        "type": 44,
+        "name": "181.fm - The Office Your Office Friendly"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://tuner.hit104.de/listen.pls&t=.m3u",
+        "id": 561,
+        "type": 44,
+        "name": "HIT104 - Your Top 40 Channel "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8032/listen.pls&t=.m3u",
+        "id": 562,
+        "type": 64,
+        "name": "181.fm - The Mix Channel"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8000/listen.pls&t=.m3u",
+        "id": 563,
+        "type": 63,
+        "name": "181.fm - Awesome 80s"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8028/listen.pls&t=.m3u",
+        "id": 567,
+        "type": 45,
+        "name": "181.fm - Rock 40 "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uplink.duplexfx.com:8800/listen.pls&t=.m3u",
+        "id": 568,
+        "type": 68,
+        "name": "181.FM - Energy 98 - Dance Hits "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uk1.internet-radio.com:15614/listen.pls&t=.m3u",
+        "id": 569,
+        "type": 48,
+        "name": "Pure Dance Radio Tenerife "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://uk1.internet-radio.com:15254/listen.pls&t=.m3u",
+        "id": 571,
+        "type": 48,
+        "name": "Vombat Radio Live Online Concerts "
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://radiolatina.info:7084/listen.pls&t=.m3u",
+        "id": 601,
+        "type": 78,
+        "name": "Estrella Internacional "
+      },
+      {
+        "url": "https://mambo.newradio.it/stream",
+        "id": 603,
+        "type": 78,
+        "name": "RADIO MAMBO - El Ritmo de la Vida"
+      },
+      {
+        "url": "http://servers.internet-radio.com/tools/playlistgenerator/?u=http://188.165.206.81:8100/listen.pls&t=.m3u",
+        "id": 607,
+        "type": 78,
+        "name": "RadioMusic - Salsa4te"
+      },
+      {
+        "url": "http://www.181.fm/stream/asx/181-power.asx",
+        "id": 618,
+        "type": 79,
+        "name": "Essencial Mix 181 FM"
+      },
+      {
+        "url": "http://listen.radionomy.com/elnivelradio.m3u",
+        "id": 621,
+        "type": 79,
+        "name": "EL NIVEL RADIO"
+      },
+      {
+        "url": "http://listen.radionomy.com/infinitum-fm.m3u",
+        "id": 630,
+        "type": 79,
+        "name": "Infinitum FM"
+      },
+      {
+        "url": "http://www.swissgroove.ch/listen.php?player=m3u",
+        "id": 640,
+        "type": 41,
+        "name": "SwissGroove"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=36483",
+        "id": 641,
+        "type": 80,
+        "name": "123Vallenato"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=45798",
+        "id": 643,
+        "type": 80,
+        "name": "Ábaco Libros y Café Radio"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=29512",
+        "id": 651,
+        "type": 80,
+        "name": "Barranquilla Estereo"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=47283",
+        "id": 657,
+        "type": 80,
+        "name": "Folklórica Estéreo"
+      },
+      {
+        "url": "http://radiolatina.info:7084/;",
+        "id": 658,
+        "type": 80,
+        "name": "Estrella Colombia 104.3 FM"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=503",
+        "id": 660,
+        "type": 80,
+        "name": "Caracol Radio 100.9 FM"
+      },
+      {
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_CARINOSA_BOGAAC_SC",
+        "id": 663,
+        "type": 80,
+        "name": "La Carinosa Bogotá"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=37093",
+        "id": 664,
+        "type": 80,
+        "name": "La Mega"
+      },
+      {
+        "url": "http://20823.live.streamtheworld.com/RCN_RADIO_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2",
+        "id": 680,
+        "type": 80,
+        "name": "RCN La Radio Bogota 93.9 FM"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=40088",
+        "id": 681,
+        "type": 80,
+        "name": "La FM Bucaramanga"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=39984",
+        "id": 683,
+        "type": 80,
+        "name": "Radio Fantastica"
+      },
+      {
+        "url": "http://vtuner.com/setupapp/guide/asp/func/dynampls.asp?link=1&id=23622",
+        "id": 684,
+        "type": 80,
+        "name": "Radio Bolivariana"
+      },
+      {
+        "url": "http://radios.vpn.sapo.pt/AO/radio9.mp3",
+        "id": 702,
+        "type": 91,
+        "name": "RÁDIO KAIRÓS"
+      },
+      {
+        "url": "http://radios.vpn.sapo.pt/AO/radio5.mp3",
+        "id": 704,
+        "type": 91,
+        "name": "RÁDIO 5"
+      },
+      {
+        "url": "http://radios.vpn.sapo.pt/AO/radio13.mp3",
+        "id": 708,
+        "type": 91,
+        "name": "CAZENGA"
+      },
+      {
+        "url": "http://radios.vpn.sapo.pt/AO/radio2.mp3",
+        "id": 709,
+        "type": 91,
+        "name": "RÁDIO UNIA"
+      },
+      {
+        "url": "http://radios.vpn.sapo.pt/AO/radio8.mp3",
+        "id": 713,
+        "type": 91,
+        "name": "RÁDIO ECCLESIA"
+      },
+      {
+        "url": "http://radios.vpn.sapo.pt/AO/radio12.mp3",
+        "id": 714,
+        "type": 91,
+        "name": "N'GOLA YETU"
+      },
+      {
+        "url": "http://radios.vpn.sapo.pt/AO/radio11.mp3",
+        "id": 715,
+        "type": 91,
+        "name": "RÁDIO LUANDA"
+      },
+      {
+        "url": "http://centova.radios.pt:9506",
+        "id": 745,
+        "type": 47,
+        "name": "Ultra FM"
+      },
+      {
+        "url": "http://listen.radionomy.com/radio-nostalgia",
+        "id": 748,
+        "type": 36,
+        "name": "Radio Nostalgia"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/asx/977_OLDIES_LO.asx",
+        "id": 749,
+        "type": 36,
+        "name": ".977 - Oldies Channel"
+      },
+      {
+        "url": "http://listen.radionomy.com/golden-50-70s-hits.m3u",
+        "id": 751,
+        "type": 36,
+        "name": "Golden 50/70s Hits"
+      },
+      {
+        "url": "http://stream.laut.fm/1000oldies.m3u",
+        "id": 752,
+        "type": 36,
+        "name": "1000 Oldies"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/goldies.asx",
+        "id": 753,
+        "type": 36,
+        "name": "Big R Radio - Golden Oldies"
+      },
+      {
+        "url": "http://listen.radionomy.com/super-oldies.m3u",
+        "id": 755,
+        "type": 36,
+        "name": "Super Oldies"
+      },
+      {
+        "url": "http://listen.radionomy.com/1000-hits-sweet-radio.m3u",
+        "id": 756,
+        "type": 36,
+        "name": "1000 HITSSweetRadio"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-goodtime",
+        "id": 757,
+        "type": 36,
+        "name": "181.FM Good Time Oldies"
+      },
+      {
+        "url": "http://listen.radionomy.com/1000oldies.m3u",
+        "id": 758,
+        "type": 36,
+        "name": "1000 Oldies"
+      },
+      {
+        "url": "http://stream.laut.fm/nummer_1_oldies.m3u",
+        "id": 759,
+        "type": 36,
+        "name": "#1 Oldies"
+      },
+      {
+        "url": "http://listen.radionomy.com/1HITS60s.m3u",
+        "id": 763,
+        "type": 36,
+        "name": "1HITS60s"
+      },
+      {
+        "url": "http://listen.radionomy.com/60schartbusters",
+        "id": 770,
+        "type": 36,
+        "name": "60s Chartbusters"
+      },
+      {
+        "url": "http://listen.radionomy.com/80s90s2khitsclassiccom",
+        "id": 771,
+        "type": 36,
+        "name": "80s 90s 2k"
+      },
+      {
+        "url": "http://stream.laut.fm/1000goldschlager.m3u",
+        "id": 775,
+        "type": 36,
+        "name": "1000 Goldschlager"
+      },
+      {
+        "url": "http://www.dollaraholler.com/classichitsplaylist128.asx",
+        "id": 780,
+        "type": 36,
+        "name": "Carolina Classic Hits"
+      },
+      {
+        "url": "http://listen.radionomy.com/radiodigitalia-ricordi",
+        "id": 787,
+        "type": 36,
+        "name": "Radio Digitalia RICORDI"
+      },
+      {
+        "url": "http://www.nonsolosuoni.it/ascolto.asx",
+        "id": 790,
+        "type": 36,
+        "name": "Nonsolosuoni Web Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-40s-wartime-music-station.m3u",
+        "id": 791,
+        "type": 36,
+        "name": "ABetterRadio.com - 40s Wartime Music"
+      },
+      {
+        "url": "http://www.stream-server.nl/streams/OldMen`sRadio.wax",
+        "id": 792,
+        "type": 36,
+        "name": "Old Men`s Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/radiodigitalia-nostalgia",
+        "id": 798,
+        "type": 36,
+        "name": "Radio Digitalia Nostalgia"
+      },
+      {
+        "url": "http://listen.radionomy.com/radiooldiesmusic4ever.m3u",
+        "id": 807,
+        "type": 36,
+        "name": "Radio Oldies Music 4 Ever"
+      },
+      {
+        "url": "http://wm.1.fm/spanisholdies/128.m3u",
+        "id": 809,
+        "type": 36,
+        "name": "1.FM - Exitos del Ayer"
+      },
+      {
+        "url": "http://www.lynxradionetwork.com/crikdiscoisdn.asx",
+        "id": 811,
+        "type": 36,
+        "name": "Crik FM - The Lynx Disco Classics"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-oldies-station.m3u",
+        "id": 813,
+        "type": 36,
+        "name": "ABetterRadio.com -  Jukebox Oldies Station"
+      },
+      {
+        "url": "http://listen.radionomy.com/45tours.m3u",
+        "id": 814,
+        "type": 36,
+        "name": "45Tours"
+      },
+      {
+        "url": "http://aceradio.net/asx/super70s.asx",
+        "id": 815,
+        "type": 36,
+        "name": "Ace Radio"
+      },
+      {
+        "url": "http://www.lynxradionetwork.com/crikisdn.asx",
+        "id": 816,
+        "type": 36,
+        "name": "Crik FM - The Lynx Classic Hits"
+      },
+      {
+        "url": "http://keepfreemusic.com/allgold/allgold.asx",
+        "id": 817,
+        "type": 36,
+        "name": "Allgold.ie - Music For Life!"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-lite90s",
+        "id": 819,
+        "type": 36,
+        "name": "181.FM Lite 90's"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-radio-70s-juice.m3u",
+        "id": 820,
+        "type": 36,
+        "name": "A.RADIO 70s Juice"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-70s-gold-hits-station.m3u",
+        "id": 822,
+        "type": 36,
+        "name": "ABetterRadio.com -  70s Gold Hits Station"
+      },
+      {
+        "url": "http://www.lolliradio.net/streaming/oldies.asx",
+        "id": 826,
+        "type": 36,
+        "name": "LOLLIRADIO OLDIES"
+      },
+      {
+        "url": "http://listen.radionomy.com/dive-bar-jukebox.m3u",
+        "id": 828,
+        "type": 36,
+        "name": "Dive Bar Jukebox Radio"
+      },
+      {
+        "url": "http://wm.1.fm/70s/128.m3u",
+        "id": 834,
+        "type": 36,
+        "name": "1.FM - Absolute 70's Pop"
+      },
+      {
+        "url": "http://listen.radionomy.com/jofox-radio",
+        "id": 835,
+        "type": 36,
+        "name": "Jofox Radio"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/golds.asx",
+        "id": 837,
+        "type": 36,
+        "name": "Hotmix Radio Golds"
+      },
+      {
+        "url": "http://www.ventureradio.co.uk/listen/venture.asx",
+        "id": 839,
+        "type": 36,
+        "name": "Venture Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/alaska-hit-radio.m3u",
+        "id": 842,
+        "type": 36,
+        "name": "Alaska Hit Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/el-dorado.m3u",
+        "id": 844,
+        "type": 36,
+        "name": "Radio El-Dorado"
+      },
+      {
+        "url": "http://wm.1.fm/60s_70s/128.m3u",
+        "id": 847,
+        "type": 36,
+        "name": "1.FM - Back To The 50's & 60's"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-disco-inferno-station.m3u",
+        "id": 855,
+        "type": 36,
+        "name": "ABetterRadio.com - 70s Disco Inferno"
+      },
+      {
+        "url": "http://listen.radionomy.com/classichitshitsclassiccom",
+        "id": 858,
+        "type": 36,
+        "name": "Classic Hits hitsclassic.com"
+      },
+      {
+        "url": "http://listen.radionomy.com/jdh-radio.asx",
+        "id": 863,
+        "type": 36,
+        "name": "JDH Radio"
+      },
+      {
+        "url": "http://cdn.voscast.com/resources/?key=3c32467849de7728c2329edb663eaefa&c=wmp",
+        "id": 867,
+        "type": 81,
+        "name": "Laurel Canyon Radio"
+      },
+      {
+        "url": "http://bigrradio.com/asx/70s80s.asx",
+        "id": 877,
+        "type": 63,
+        "name": "Big R Radio - 70s80s Pop Mix"
+      },
+      {
+        "url": "http://bigrradio.com/asx/80s90s.asx",
+        "id": 878,
+        "type": 63,
+        "name": "Big R Radio - 80s&90s Pop Mix"
+      },
+      {
+        "url": "http://listen.radionomy.com/always-80s.m3u",
+        "id": 879,
+        "type": 63,
+        "name": "Always 80s"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-awesome80s",
+        "id": 883,
+        "type": 63,
+        "name": "181.FM Awesome 80's"
+      },
+      {
+        "url": "http://wm.1.fm/magic80/128.m3u",
+        "id": 884,
+        "type": 63,
+        "name": "1.FM - Magic 80's"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_80.mp3",
+        "id": 887,
+        "type": 63,
+        "name": ".977 - 80's Hits"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-hairband",
+        "id": 892,
+        "type": 63,
+        "name": "181.FM 80's Hairband"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/windowsguide-80.asx",
+        "id": 893,
+        "type": 63,
+        "name": "Hotmix Radio 80"
+      },
+      {
+        "url": "http://stream.laut.fm/101fm.m3u",
+        "id": 895,
+        "type": 63,
+        "name": "101 FM -  Sound der 60er 70er 80er 90er"
+      },
+      {
+        "url": "http://stream.laut.fm/satzentrale.m3u",
+        "id": 900,
+        "type": 63,
+        "name": "SATzentrale - Das Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/fm-80.asx",
+        "id": 904,
+        "type": 63,
+        "name": "FM80"
+      },
+      {
+        "url": "http://listen.radionomy.com/italopower",
+        "id": 906,
+        "type": 63,
+        "name": "Italopower!"
+      },
+      {
+        "url": "https://madein80.leswebradios.fr/live",
+        "id": 912,
+        "type": 63,
+        "name": "Madein80"
+      },
+      {
+        "url": "http://listen.radionomy.com/nestor-fm.m3u",
+        "id": 914,
+        "type": 63,
+        "name": "NESTOR FM 80"
+      },
+      {
+        "url": "http://listen.radionomy.com/ambiance80-s.m3u",
+        "id": 916,
+        "type": 63,
+        "name": "Ambiance 80's"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-radio-80s-juice.m3u",
+        "id": 918,
+        "type": 63,
+        "name": "A.RADIO 80s Juice"
+      },
+      {
+        "url": "http://begoodradio.com/asx/lite.asx",
+        "id": 919,
+        "type": 63,
+        "name": "Be Good Radio"
+      },
+      {
+        "url": "http://bestnetradio.com/asx/newwave.asx",
+        "id": 920,
+        "type": 63,
+        "name": "Best Net Radio - New Wave"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/80s.asx",
+        "id": 923,
+        "type": 63,
+        "name": "Big R Radio 80s FM"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-lite80s",
+        "id": 926,
+        "type": 63,
+        "name": "181.FM Lite 80's"
+      },
+      {
+        "url": "http://listen.radionomy.com/80sfunkdancemusic.m3u",
+        "id": 927,
+        "type": 63,
+        "name": "80s Funk Dance Music"
+      },
+      {
+        "url": "http://begoodradio.com/asx/newwave.asx",
+        "id": 930,
+        "type": 63,
+        "name": "Be Good Radio - 80s New Wave"
+      },
+      {
+        "url": "http://wm.1.fm/disco/128.m3u",
+        "id": 933,
+        "type": 63,
+        "name": "1.FM - Disco Ball 70's-80's"
+      },
+      {
+        "url": "http://listen.radionomy.com/wbmxcom-80-sr-b.m3u",
+        "id": 934,
+        "type": 63,
+        "name": "All 80s R&B Channel - WBMX.COM"
+      },
+      {
+        "url": "http://begoodradio.com/asx/rockmix.asx",
+        "id": 935,
+        "type": 63,
+        "name": "Be Good Radio - 80s Rock Mix"
+      },
+      {
+        "url": "http://bestnetradio.com/asx/80sgalore.asx",
+        "id": 936,
+        "type": 63,
+        "name": "Best Net Radio - 80s Galore"
+      },
+      {
+        "url": "http://aceradio.net/asx/soft80s.asx",
+        "id": 937,
+        "type": 63,
+        "name": "Ace Radio - The Soft 80s Channel"
+      },
+      {
+        "url": "http://bestnetradio.com/asx/80smellow.asx",
+        "id": 938,
+        "type": 63,
+        "name": "Best Net Radio - 80s Mellow"
+      },
+      {
+        "url": "http://aceradio.net/asx/awesome80s.asx",
+        "id": 939,
+        "type": 63,
+        "name": "Ace Radio - The Awesome 80s"
+      },
+      {
+        "url": "http://202.fm/tuner.php?station=tsm-ultimate80s",
+        "id": 940,
+        "type": 63,
+        "name": "202.FM - Ultimate 80s"
+      },
+      {
+        "url": "http://aceradio.net/asx/hairband.asx",
+        "id": 941,
+        "type": 63,
+        "name": "Ace Radio - Hairband Channel"
+      },
+      {
+        "url": "http://1980s.fm/modules/Listen/MP3-hi.asx",
+        "id": 945,
+        "type": 63,
+        "name": "1980s.FM"
+      },
+      {
+        "url": "http://begoodradio.com/asx/mix.asx",
+        "id": 947,
+        "type": 63,
+        "name": "BeGoodRadio - 80s Mix"
+      },
+      {
+        "url": "http://202.fm/tuner.php?station=tsm-lite80s",
+        "id": 951,
+        "type": 63,
+        "name": "202.FM - Lite 80's"
+      },
+      {
+        "url": "http://www.star104.net/stream/wm-80s.asx",
+        "id": 952,
+        "type": 63,
+        "name": "Star104 - The 80s Channel"
+      },
+      {
+        "url": "http://listen.radionomy.com/wbmxcom-freestyleclassics.m3u",
+        "id": 953,
+        "type": 63,
+        "name": "All Freestyle Channel - WBMX.COM"
+      },
+      {
+        "url": "http://listen.radionomy.com/acc80-s.m3u",
+        "id": 954,
+        "type": 63,
+        "name": "ACC 80'S"
+      },
+      {
+        "url": "http://wm.1.fm/back280s/128.m3u",
+        "id": 955,
+        "type": 63,
+        "name": "1.FM - A List 80's"
+      },
+      {
+        "url": "http://listen.radionomy.com/80sobsessionradio.m3u",
+        "id": 956,
+        "type": 63,
+        "name": "80s Obsession Radio"
+      },
+      {
+        "url": "http://wm.1.fm/80s_90s/128.m3u",
+        "id": 957,
+        "type": 63,
+        "name": "1.FM - All Euro 80's"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-80s-station.m3u",
+        "id": 958,
+        "type": 63,
+        "name": "ABetterRadio.com - Awesome 80s Station"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-classicbuzz",
+        "id": 959,
+        "type": 63,
+        "name": "181.FM Classic Buzz (Alt)"
+      },
+      {
+        "url": "http://listen.radionomy.com/purplewave",
+        "id": 961,
+        "type": 63,
+        "name": "ACC Purple Wave"
+      },
+      {
+        "url": "http://listen.radionomy.com/skylyneradiopop1",
+        "id": 965,
+        "type": 63,
+        "name": "Skylyne Radio Pop"
+      },
+      {
+        "url": "http://listen.radionomy.com/france80.m3u",
+        "id": 967,
+        "type": 63,
+        "name": "FRANCE80"
+      },
+      {
+        "url": "http://www.lynxradionetwork.com/crikretroisdn.asx",
+        "id": 968,
+        "type": 63,
+        "name": "CRIK FM - The Lynx Retro 80s"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxwave.asx",
+        "id": 970,
+        "type": 63,
+        "name": "Digital Impulse - New Wave '80s"
+      },
+      {
+        "url": "http://listen.radionomy.com/1HITS80s.m3u",
+        "id": 971,
+        "type": 63,
+        "name": "1 HITS 80s"
+      },
+      {
+        "url": "http://listen.radionomy.com/funmusicradio-69fm",
+        "id": 973,
+        "type": 63,
+        "name": "Fun-Music radio 69FM"
+      },
+      {
+        "url": "http://listen.radionomy.com/subarashii.m3u",
+        "id": 976,
+        "type": 82,
+        "name": "Subarashii Radio Manga"
+      },
+      {
+        "url": "http://listen.radionomy.com/euro4.m3u",
+        "id": 988,
+        "type": 82,
+        "name": "Euro4 Soundtracks"
+      },
+      {
+        "url": "http://listen.radionomy.com/elium.m3u",
+        "id": 990,
+        "type": 82,
+        "name": "ELIUM Lounge & Trip Hop"
+      },
+      {
+        "url": "http://listen.radionomy.com/cocktelera-blues.m3u",
+        "id": 1000,
+        "type": 52,
+        "name": "Cocktelera Blues"
+      },
+      {
+        "url": "http://listen.radionomy.com/radiobluesmusic4ever.m3u",
+        "id": 1001,
+        "type": 52,
+        "name": "Radio Blues Music 4 Ever"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxblues.asx",
+        "id": 1002,
+        "type": 52,
+        "name": "Digital Impulse - Blues"
+      },
+      {
+        "url": "http://wm.1.fm/blues/128.m3u",
+        "id": 1004,
+        "type": 52,
+        "name": "1.FM - Blues"
+      },
+      {
+        "url": "http://listen.radionomy.com/radio-mozart.m3u",
+        "id": 1017,
+        "type": 36,
+        "name": "Radio Mozart"
+      },
+      {
+        "url": "http://listen.radionomy.com/barock-music.m3u",
+        "id": 1018,
+        "type": 36,
+        "name": "Baroque Music"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxclassical.asx",
+        "id": 1049,
+        "type": 36,
+        "name": "Digital Impulse - Classical"
+      },
+      {
+        "url": "http://www.solopianoradio.com/free/pianosolo64wma.asx",
+        "id": 1050,
+        "type": 36,
+        "name": "Whisperings - Solo Piano Radio"
+      },
+      {
+        "url": "http://wm.1.fm/baroque/128.m3u",
+        "id": 1057,
+        "type": 36,
+        "name": "1.FM - Otto's Baroque"
+      },
+      {
+        "url": "http://listen.radionomy.com/masterworksradio",
+        "id": 1062,
+        "type": 36,
+        "name": "Masterworks Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-classical-station.m3u",
+        "id": 1070,
+        "type": 36,
+        "name": "ABetterRadio.com - Classical Baroque"
+      },
+      {
+        "url": "http://listen.radionomy.com/1000hitsclassicalmusic.m3u",
+        "id": 1076,
+        "type": 36,
+        "name": "1000 HITS Classical"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1oneclassical.m3u",
+        "id": 1077,
+        "type": 36,
+        "name": "A.1.ONE.CLASSICAL"
+      },
+      {
+        "url": "http://listen.radionomy.com/euro9.m3u",
+        "id": 1078,
+        "type": 36,
+        "name": "Euro9 Classic"
+      },
+      {
+        "url": "http://listen.radionomy.com/aclassicfm-web.m3u",
+        "id": 1079,
+        "type": 36,
+        "name": "A-CLASSIC-FM-WEB"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1onesymphony.m3u",
+        "id": 1080,
+        "type": 36,
+        "name": "A.1.ONE.SYMPHONY"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1onebaroque.m3u",
+        "id": 1081,
+        "type": 36,
+        "name": "A.1.ONE.BAROQUE"
+      },
+      {
+        "url": "http://www.countrymusic24.com/2live.wax",
+        "id": 1087,
+        "type": 37,
+        "name": "Countrymusic24"
+      },
+      {
+        "url": "http://stream.laut.fm/1000countryhits.m3u",
+        "id": 1088,
+        "type": 37,
+        "name": "1000 Countryhits"
+      },
+      {
+        "url": "http://listen.radionomy.com/radio-almrausch-volksmusik.m3u",
+        "id": 1089,
+        "type": 37,
+        "name": "Radio Almrausch – Oberkrainer"
+      },
+      {
+        "url": "http://listen.radionomy.com/radio-almrausch.m3u",
+        "id": 1091,
+        "type": 37,
+        "name": "Radio Almrausch - Schlager_Country"
+      },
+      {
+        "url": "http://listen.radionomy.com/nashvilleedge.m3u",
+        "id": 1093,
+        "type": 37,
+        "name": "NashvilleEdge"
+      },
+      {
+        "url": "http://listen.radionomy.com/yimago-radio-1",
+        "id": 1102,
+        "type": 37,
+        "name": "YimagoRadio1"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/countrygold.asx",
+        "id": 1104,
+        "type": 37,
+        "name": "Big R Radio - Country Gold"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1country-countrylegendsclassics",
+        "id": 1106,
+        "type": 37,
+        "name": "A1 Country - Country Legends Radio"
+      },
+      {
+        "url": "http://wm.1.fm/ccountry/128.m3u",
+        "id": 1107,
+        "type": 37,
+        "name": "1.FM  - Classic Country"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-kickincountry",
+        "id": 1108,
+        "type": 37,
+        "name": "181.FM Kickin' Country"
+      },
+      {
+        "url": "http://bestnetradio.com/asx/countryoldies.asx",
+        "id": 1111,
+        "type": 37,
+        "name": "Best Net Radio - Country Oldies"
+      },
+      {
+        "url": "http://202.fm/tuner.php?station=tsm-hotcountry",
+        "id": 1112,
+        "type": 37,
+        "name": "202.FM - Hot Country"
+      },
+      {
+        "url": "http://listen.radionomy.com/chasingyourdreamradio.m3u",
+        "id": 1114,
+        "type": 37,
+        "name": "Chasing Your Dream Radio"
+      },
+      {
+        "url": "http://bestnetradio.com/asx/countrymix.asx",
+        "id": 1119,
+        "type": 37,
+        "name": "Best Net Radio - Country Mix"
+      },
+      {
+        "url": "http://wm.1.fm/country/128.m3u",
+        "id": 1126,
+        "type": 37,
+        "name": "1.FM - Country One"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-90scountry",
+        "id": 1128,
+        "type": 37,
+        "name": "181.FM 90's Country"
+      },
+      {
+        "url": "http://listen.radionomy.com/chcdixie",
+        "id": 1129,
+        "type": 37,
+        "name": "CHC DIXIE"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-frontporch",
+        "id": 1130,
+        "type": 37,
+        "name": "181.FM Front Porch (Bluegrass)"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-highway",
+        "id": 1132,
+        "type": 37,
+        "name": "181.FM Highway 181"
+      },
+      {
+        "url": "http://2000fm.net/asx/country.asx",
+        "id": 1133,
+        "type": 37,
+        "name": "2000 FM - Country Hits"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/countrymix.asx",
+        "id": 1139,
+        "type": 37,
+        "name": "Big R Radio - Country Mix"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-country-legends-classics-station.m3u",
+        "id": 1140,
+        "type": 37,
+        "name": "ABetterRadio.com -  Classic Country Station"
+      },
+      {
+        "url": "http://wm.1.fm/acountry/128.m3u",
+        "id": 1141,
+        "type": 37,
+        "name": "1.FM  - Absolute Country Hits"
+      },
+      {
+        "url": "http://bestnetradio.com/asx/2ktoday.asx",
+        "id": 1144,
+        "type": 37,
+        "name": "Best Net Radio - 2K and Today's Country"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1country-allamericancountryradio",
+        "id": 1145,
+        "type": 37,
+        "name": "A1 Country - All American Country"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-realcountry",
+        "id": 1146,
+        "type": 37,
+        "name": "181.FM Real Country"
+      },
+      {
+        "url": "http://aceradio.net/asx/newcountry.asx",
+        "id": 1148,
+        "type": 37,
+        "name": "Ace Radio - The new Country"
+      },
+      {
+        "url": "http://aceradio.net/asx/countrymix.asx",
+        "id": 1152,
+        "type": 37,
+        "name": "Ace Radio - The Country Oldies"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1country-lightningcountryradio",
+        "id": 1153,
+        "type": 37,
+        "name": "A1 Country - Lightning Country Radio"
+      },
+      {
+        "url": "http://www.star104.net/stream/wm-country.asx",
+        "id": 1159,
+        "type": 37,
+        "name": "Star104 - The Country Channel"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1country-goodtimecountry",
+        "id": 1165,
+        "type": 37,
+        "name": "A1 Country - Good Time Country"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1country-kickin-hitscountry",
+        "id": 1166,
+        "type": 37,
+        "name": "A1 Country - Kickin' Hits Country"
+      },
+      {
+        "url": "http://listen.radionomy.com/skylyneradioclassiccountry",
+        "id": 1167,
+        "type": 37,
+        "name": "Skylyne Radio Classic Country"
+      },
+      {
+        "url": "http://listen.radionomy.com/euro8.m3u",
+        "id": 1169,
+        "type": 37,
+        "name": "Euro8 Country"
+      },
+      {
+        "url": "http://listen.radionomy.com/a1onecountry.m3u",
+        "id": 1170,
+        "type": 37,
+        "name": "A.1.ONE.COUNTRY"
+      },
+      {
+        "url": "http://listen.radionomy.com/radio-country-family.m3u",
+        "id": 1171,
+        "type": 37,
+        "name": "World Radio Country Family - WRCF"
+      },
+      {
+        "url": "http://listen.radionomy.com/deepsideradio.m3u",
+        "id": 1174,
+        "type": 84,
+        "name": "Deep Side Radio"
+      },
+      {
+        "url": "http://stream.laut.fm/1000discohits.m3u",
+        "id": 1176,
+        "type": 84,
+        "name": "1000 Disco Hits"
+      },
+      {
+        "url": "http://stream.laut.fm/club93.m3u",
+        "id": 1180,
+        "type": 84,
+        "name": "Club 93"
+      },
+      {
+        "url": "http://stream.laut.fm/klangwelt.m3u",
+        "id": 1184,
+        "type": 84,
+        "name": "Klangwelt on laut.fm"
+      },
+      {
+        "url": "http://listen.radionomy.com/addictive-eurodance.m3u",
+        "id": 1195,
+        "type": 84,
+        "name": "Radio Eurodance Classic"
+      },
+      {
+        "url": "http://listen.radionomy.com/fiive-radio.m3u",
+        "id": 1196,
+        "type": 84,
+        "name": "Five Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/thesedarkestemotions.m3u",
+        "id": 1198,
+        "type": 84,
+        "name": "These Darkest Emotions EBM radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/dubsideradio.m3u",
+        "id": 1201,
+        "type": 84,
+        "name": "Dubside Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/allectro-radio",
+        "id": 1202,
+        "type": 84,
+        "name": "AllectroRadio"
+      },
+      {
+        "url": "http://listen.radionomy.com/electronic-global-radio.m3u",
+        "id": 1204,
+        "type": 84,
+        "name": "Electronic Global Radio"
+      },
+      {
+        "url": "http://streaming.advancehost.com.br/player/8212/mediaplayer.asx",
+        "id": 1205,
+        "type": 84,
+        "name": "America Dance 90"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxcasw.asx",
+        "id": 1211,
+        "type": 84,
+        "name": "Digital Impulse - House"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxrik.asx",
+        "id": 1212,
+        "type": 84,
+        "name": "Digital Impulse - Techno"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxpulsar.asx",
+        "id": 1214,
+        "type": 84,
+        "name": "Digital Impulse - Pulsar Recordings Trance"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxpop.asx",
+        "id": 1216,
+        "type": 84,
+        "name": "Digital Impulse - Funk & Electro Swing"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asx80s.asx",
+        "id": 1217,
+        "type": 84,
+        "name": "Digital Impulse - Disco '80s"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxtrance.asx",
+        "id": 1219,
+        "type": 84,
+        "name": "Digital Impulse - Trance"
+      },
+      {
+        "url": "http://www.deephouselounge.com/Listen_Links/playlist.asx",
+        "id": 1224,
+        "type": 84,
+        "name": "EEP HOUSE LOUNGE"
+      },
+      {
+        "url": "http://wm.1.fm/deephouse/128.m3u",
+        "id": 1230,
+        "type": 84,
+        "name": "1.FM - Deep House"
+      },
+      {
+        "url": "http://streams.nexusradio.fm/dance/windows.asx",
+        "id": 1231,
+        "type": 84,
+        "name": "Nexus Dance.  This Is Nexus!"
+      },
+      {
+        "url": "http://wm.1.fm/trance/128.m3u",
+        "id": 1233,
+        "type": 84,
+        "name": "1.FM - Absolute Trance"
+      },
+      {
+        "url": "http://wm.1.fm/chilloutlounge/128.m3u",
+        "id": 1235,
+        "type": 84,
+        "name": "1.FM - Chillout Lounge"
+      },
+      {
+        "url": "http://entranced.fm/modules/Listen/MP3-hi.asx",
+        "id": 1259,
+        "type": 84,
+        "name": "Entranced.FM"
+      },
+      {
+        "url": "http://wm.1.fm/dance/128.m3u",
+        "id": 1262,
+        "type": 84,
+        "name": "1.FM - Dance"
+      },
+      {
+        "url": "http://wm.1.fm/psytrance/128.m3u",
+        "id": 1266,
+        "type": 84,
+        "name": "1.FM - BOM Psytrance"
+      },
+      {
+        "url": "http://www.dnbradio.com/hi.asx",
+        "id": 1270,
+        "type": 84,
+        "name": "DnbRadio"
+      },
+      {
+        "url": "http://wm.1.fm/90s/128.m3u",
+        "id": 1289,
+        "type": 84,
+        "name": "1.FM - Absolute 90's"
+      },
+      {
+        "url": "http://listen.radionomy.com/perfectradiouk.m3u",
+        "id": 1297,
+        "type": 84,
+        "name": "Perfect Radio UK"
+      },
+      {
+        "url": "http://listen.radionomy.com/1-radio-dance.m3u",
+        "id": 1298,
+        "type": 84,
+        "name": "1 Radio Dance"
+      },
+      {
+        "url": "http://stream.cdm-chillout.com:8012/stream-mp3-Deep",
+        "id": 1300,
+        "type": 84,
+        "name": "Costa Del Mar - Deep House"
+      },
+      {
+        "url": "http://listen.radionomy.com/eurodance-90.m3u",
+        "id": 1302,
+        "type": 84,
+        "name": "Eurodance 90"
+      },
+      {
+        "url": "http://www.pulsradio.com/pls/puls-adsl.asx",
+        "id": 1304,
+        "type": 84,
+        "name": "PulsRadio - Dance Non Stop"
+      },
+      {
+        "url": "http://icecast.pulsradio.com/hitpartyHD.mp3",
+        "id": 1305,
+        "type": 84,
+        "name": "HIT Party"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-dancefloor-fm-web.m3u",
+        "id": 1308,
+        "type": 84,
+        "name": "A-DANCEFLOOR-FM-WEB"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/windowsguide-dance.asx",
+        "id": 1309,
+        "type": 84,
+        "name": "Hotmix Radio Dance"
+      },
+      {
+        "url": "http://listen.radionomy.com/dancero.m3u",
+        "id": 1312,
+        "type": 84,
+        "name": "Dance.RO"
+      },
+      {
+        "url": "http://www.pulsradio.com/pls/pulstrance-wmp.asx",
+        "id": 1313,
+        "type": 84,
+        "name": "100.0 PulsRadio Trance"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/windowsguide-funky.asx",
+        "id": 1315,
+        "type": 84,
+        "name": "Hotmix Radio Disco"
+      },
+      {
+        "url": "http://listen.radionomy.com/ambient-and-lounge.m3u",
+        "id": 1318,
+        "type": 84,
+        "name": "Ambient and Lounge"
+      },
+      {
+        "url": "http://listen.radionomy.com/beautiful-mix.m3u",
+        "id": 1321,
+        "type": 84,
+        "name": "BeautifulMix"
+      },
+      {
+        "url": "http://listen.radionomy.com/playweekmat-v.m3u",
+        "id": 1323,
+        "type": 84,
+        "name": "PWM Webradio"
+      },
+      {
+        "url": "http://listen.radionomy.com/abcdancegold.m3u",
+        "id": 1328,
+        "type": 84,
+        "name": "ABC Dance Gold"
+      },
+      {
+        "url": "http://listen.radionomy.com/abcdancehouse.m3u",
+        "id": 1332,
+        "type": 84,
+        "name": "ABC Dance House"
+      },
+      {
+        "url": "http://streamingv2.shoutcast.com/Atomik-Radio",
+        "id": 1337,
+        "type": 84,
+        "name": "Atomik Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-disco-fm-web.m3u",
+        "id": 1338,
+        "type": 84,
+        "name": "A-DISCO-FM-WEB"
+      },
+      {
+        "url": "http://listen.radionomy.com/radioactifmusic",
+        "id": 1340,
+        "type": 84,
+        "name": "RadioActif Music"
+      },
+      {
+        "url": "http://listen.radionomy.com/italiadancemusicwebradio.m3u",
+        "id": 1344,
+        "type": 84,
+        "name": "Italia Dance Music"
+      },
+      {
+        "url": "http://www.lolliradio.net/streaming/dance.asx",
+        "id": 1345,
+        "type": 84,
+        "name": "LOLLIRADIO DANCE"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-radio-top-40-dance.m3u",
+        "id": 1347,
+        "type": 84,
+        "name": "A.RADIO Top 40 Dance"
+      },
+      {
+        "url": "http://listen.radionomy.com/kosmik-station.m3u",
+        "id": 1348,
+        "type": 84,
+        "name": "Kosmik Station"
+      },
+      {
+        "url": "http://sanfm.ru/drum.asx",
+        "id": 1349,
+        "type": 84,
+        "name": "SanFM.ru Drum'n'bass Stream - www.SanFM.ru"
+      },
+      {
+        "url": "http://listen.radionomy.com/move-danceradio.m3u",
+        "id": 1351,
+        "type": 84,
+        "name": "Move! Dance Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/crystalradiobeautifulmusic",
+        "id": 1367,
+        "type": 86,
+        "name": "Crystal Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/amazinglitemusiccom.m3u",
+        "id": 1372,
+        "type": 86,
+        "name": "AmazingLiteMusic.com"
+      },
+      {
+        "url": "http://bestnetradio.com/asx/coffeehouse.asx",
+        "id": 1373,
+        "type": 86,
+        "name": "Best Net Radio - Coffee House"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/1016.asx",
+        "id": 1374,
+        "type": 86,
+        "name": "Big R Radio - 101.6"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/asx/977_MIX_LO.asx",
+        "id": 1375,
+        "type": 88,
+        "name": ".977 - The Mix Channel"
+      },
+      {
+        "url": "http://klux.org/stream/listenlive.asx",
+        "id": 1377,
+        "type": 86,
+        "name": "KLUX 89.5 - Good Company"
+      },
+      {
+        "url": "http://avbhost.com/listen/jimfm/jim128.asx",
+        "id": 1381,
+        "type": 86,
+        "name": "Jim FM"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-office-hits-station.m3u",
+        "id": 1383,
+        "type": 86,
+        "name": "ABetterRadio.com -  Office Hits Station"
+      },
+      {
+        "url": "http://aceradio.net/asx/softhits.asx",
+        "id": 1384,
+        "type": 86,
+        "name": "Ace Radio - Soft Hits Channel"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/70s.asx",
+        "id": 1385,
+        "type": 86,
+        "name": "Big R Radio - 70s FM"
+      },
+      {
+        "url": "http://wm.1.fm/oldschool/128.m3u",
+        "id": 1391,
+        "type": 86,
+        "name": "1.FM - Adult Urban Hits Choice"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-love-songs-station.m3u",
+        "id": 1392,
+        "type": 86,
+        "name": "ABetterRadio.com -  Love Songs Station"
+      },
+      {
+        "url": "http://listen.radionomy.com/2loveradio.m3u",
+        "id": 1402,
+        "type": 86,
+        "name": "Love Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/losmegaexitos",
+        "id": 1403,
+        "type": 86,
+        "name": "Los Megaexitos"
+      },
+      {
+        "url": "http://listen.radionomy.com/trop-beautiful.m3u",
+        "id": 1404,
+        "type": 86,
+        "name": "TropBeautiful"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/windowsguide-90.asx",
+        "id": 1405,
+        "type": 86,
+        "name": "Hotmixr Radio 90"
+      },
+      {
+        "url": "http://www.b4bradio.com/flux/love-classics.m3u",
+        "id": 1406,
+        "type": 86,
+        "name": "B4B Love Classics"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/windowsguide-frenchy.asx",
+        "id": 1407,
+        "type": 86,
+        "name": "Hotmixradio Frenchy"
+      },
+      {
+        "url": "http://listen.radionomy.com/goldies-time.m3u",
+        "id": 1408,
+        "type": 86,
+        "name": "Goldies Time"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/2000.asx",
+        "id": 1410,
+        "type": 86,
+        "name": "Hotmix Radio 2000"
+      },
+      {
+        "url": "http://listen.radionomy.com/pop-n-love.m3u",
+        "id": 1411,
+        "type": 86,
+        "name": "Pop'N'lovE"
+      },
+      {
+        "url": "http://www.b4bradio.com/flux/dance-hit.m3u",
+        "id": 1413,
+        "type": 86,
+        "name": "B4B Dance 80s - 90s"
+      },
+      {
+        "url": "http://listen.radionomy.com/madein90.m3u",
+        "id": 1414,
+        "type": 86,
+        "name": "Madein90"
+      },
+      {
+        "url": "http://listen.radionomy.com/modem-radio-pricipal.m3u",
+        "id": 1416,
+        "type": 86,
+        "name": "Modem radio France"
+      },
+      {
+        "url": "http://listen.radionomy.com/castelfm-antenne.m3u",
+        "id": 1419,
+        "type": 86,
+        "name": "Castel FM"
+      },
+      {
+        "url": "http://www.radiololgiata.net/olgiata.asx",
+        "id": 1422,
+        "type": 86,
+        "name": "Radio L'Olgiata.Net HD"
+      },
+      {
+        "url": "http://listen.radionomy.com/portofinonetwork",
+        "id": 1424,
+        "type": 86,
+        "name": "Portofino Network"
+      },
+      {
+        "url": "http://listen.radionomy.com/passionloveradio.m3u",
+        "id": 1427,
+        "type": 86,
+        "name": "Passion.Love.Radio"
+      },
+      {
+        "url": "http://zradio.org/streams/Z88-128S.asx",
+        "id": 1436,
+        "type": 87,
+        "name": "Positive Hits - Z88.3"
+      },
+      {
+        "url": "http://klrc.streamguys1.com/klrc-aac",
+        "id": 1446,
+        "type": 87,
+        "name": "KLRC - The Positive Difference"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/gospel.asx",
+        "id": 1448,
+        "type": 87,
+        "name": "1Faith FM - Gospel Channel"
+      },
+      {
+        "url": "http://azulweb.streamguys.com/allworship-instr.asx",
+        "id": 1450,
+        "type": 87,
+        "name": "AllWorship Instrumental Worship"
+      },
+      {
+        "url": "http://wm.1.fm/acpl/128.m3u",
+        "id": 1452,
+        "type": 87,
+        "name": "1.FM - Acappella"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/hits.asx",
+        "id": 1453,
+        "type": 87,
+        "name": "1Faith FM - Hits Channel"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-better-christian-station.m3u",
+        "id": 1458,
+        "type": 87,
+        "name": "ABetterRadio.com -  Christian Praise Station"
+      },
+      {
+        "url": "http://listen.radionomy.com/heartradiousa.m3u",
+        "id": 1467,
+        "type": 87,
+        "name": "Heart Radio USA"
+      },
+      {
+        "url": "http://listen.radionomy.com/starsmusic.m3u",
+        "id": 1469,
+        "type": 87,
+        "name": "StarsMusic"
+      },
+      {
+        "url": "http://listen.radionomy.com/missionweb.m3u",
+        "id": 1470,
+        "type": 87,
+        "name": "missionweb"
+      },
+      {
+        "url": "http://stream.laut.fm/schlagerweihnacht.m3u",
+        "id": 1472,
+        "type": 88,
+        "name": "Schlagerweihnacht"
+      },
+      {
+        "url": "http://listen.radionomy.com/halloweenradionet",
+        "id": 1475,
+        "type": 88,
+        "name": "Halloweenradio.net"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/halloween.asx",
+        "id": 1485,
+        "type": 88,
+        "name": "Big R Radio - The Halloween Channel"
+      },
+      {
+        "url": "http://wm.1.fm/christmas/128.m3u",
+        "id": 1489,
+        "type": 88,
+        "name": "1.FM - Always Christmas"
+      },
+      {
+        "url": "http://listen.radionomy.com/abetterchristmasradiostation-abetterradiocom.m3u",
+        "id": 1491,
+        "type": 88,
+        "name": "ABetterRadio.com - Christmas & Holiday Hits"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-xtraditional",
+        "id": 1502,
+        "type": 88,
+        "name": "181.FM Christmas Classics"
+      },
+      {
+        "url": "http://stream.laut.fm/electrozombies.m3u",
+        "id": 1522,
+        "type": 89,
+        "name": "Electrozombies"
+      },
+      {
+        "url": "http://www.blurfm.com/streams/asx/blurfm.asx",
+        "id": 1525,
+        "type": 89,
+        "name": "Blur FM - Buenos Aires Argentina"
+      },
+      {
+        "url": "http://listen.radionomy.com/ukrockradio.m3u",
+        "id": 1526,
+        "type": 89,
+        "name": "UK Rock Radio"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-chloe",
+        "id": 1535,
+        "type": 89,
+        "name": "181.FM Chloe @181.FM"
+      },
+      {
+        "url": "http://wm.1.fm/gorillafm/128.m3u",
+        "id": 1539,
+        "type": 89,
+        "name": "1.FM - Gorilla FM"
+      },
+      {
+        "url": "http://thedetour.us/player/wm-high.asx",
+        "id": 1540,
+        "type": 89,
+        "name": "Detour Music"
+      },
+      {
+        "url": "http://listen.radionomy.com/cws.m3u",
+        "id": 1547,
+        "type": 89,
+        "name": "CWS Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/teez-fm.asx",
+        "id": 1549,
+        "type": 89,
+        "name": "TEEZ'FM"
+      },
+      {
+        "url": "http://andhow.org/playlists/masterlist.asx",
+        "id": 1550,
+        "type": 89,
+        "name": "andHow.FM"
+      },
+      {
+        "url": "http://stream.laut.fm/kriola.m3u",
+        "id": 1559,
+        "type": 57,
+        "name": "Radio Kriola"
+      },
+      {
+        "url": "http://stream.laut.fm/eswirdmorgen.m3u",
+        "id": 1563,
+        "type": 57,
+        "name": "Es wird Morgen"
+      },
+      {
+        "url": "http://listen.radionomy.com/djsiranfm.m3u",
+        "id": 1565,
+        "type": 57,
+        "name": "DJSiran.FM"
+      },
+      {
+        "url": "http://listen.radionomy.com/hotworldradio",
+        "id": 1585,
+        "type": 57,
+        "name": "Hot World Radio"
+      },
+      {
+        "url": "http://byblosradio.com/live128.asx",
+        "id": 1587,
+        "type": 57,
+        "name": "ByblosRadio.com"
+      },
+      {
+        "url": "http://listen.radionomy.com/miziziworldmusicradio",
+        "id": 1591,
+        "type": 57,
+        "name": "Mizizi World Music Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/mintmusic.m3u",
+        "id": 1592,
+        "type": 57,
+        "name": "Mint Music Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/afrobeatsnation.asx",
+        "id": 1594,
+        "type": 57,
+        "name": "Afrobeats Nation"
+      },
+      {
+        "url": "http://listen.radionomy.com/sepia.m3u",
+        "id": 1598,
+        "type": 57,
+        "name": "Sépia Méditerranée"
+      },
+      {
+        "url": "http://listen.radionomy.com/kulturarteradio.m3u",
+        "id": 1600,
+        "type": 57,
+        "name": "Kulturarte Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/lesondumouton.m3u",
+        "id": 1601,
+        "type": 57,
+        "name": "Le Son Du Mouton"
+      },
+      {
+        "url": "http://www.lolliradio.net/streaming/italia.asx",
+        "id": 1606,
+        "type": 57,
+        "name": "LOLLIRADIO ITALIA"
+      },
+      {
+        "url": "http://listen.radionomy.com/radiodigitalia-musica-italiana",
+        "id": 1607,
+        "type": 57,
+        "name": "Radio Digitalia MUSICA ITALIANA"
+      },
+      {
+        "url": "http://www.lolliradio.net/streaming/happy.asx",
+        "id": 1611,
+        "type": 57,
+        "name": "LOLLIRADIO HAPPY STATION"
+      },
+      {
+        "url": "http://listen.radionomy.com/hitradio-liberty",
+        "id": 1617,
+        "type": 57,
+        "name": "hitradio Liberty"
+      },
+      {
+        "url": "http://listen.radionomy.com/radioel-doradonl",
+        "id": 1618,
+        "type": 57,
+        "name": "Radio El-Dorado-nl"
+      },
+      {
+        "url": "http://listen.radionomy.com/anzofm.m3u",
+        "id": 1620,
+        "type": 57,
+        "name": "AnZoRadio"
+      },
+      {
+        "url": "http://listen.radionomy.com/dakarmusique.m3u",
+        "id": 1622,
+        "type": 57,
+        "name": "Dakar Musique"
+      },
+      {
+        "url": "http://listen.radionomy.com/marciabaila.asx",
+        "id": 1624,
+        "type": 57,
+        "name": "Radio Marcia Baila"
+      },
+      {
+        "url": "http://listen.radionomy.com/allegro-jazz.m3u",
+        "id": 1630,
+        "type": 41,
+        "name": "Allegro Jazz"
+      },
+      {
+        "url": "http://listen.radionomy.com/play-misty-for-me.m3u",
+        "id": 1631,
+        "type": 41,
+        "name": "Play-Misty-For-Me"
+      },
+      {
+        "url": "http://listen.radionomy.com/belote-en-ligne.m3u",
+        "id": 1633,
+        "type": 41,
+        "name": "Belote-en-ligne"
+      },
+      {
+        "url": "https://orion.shoutca.st/tunein/asxjyzz.asx",
+        "id": 1643,
+        "type": 41,
+        "name": "Digital Impulse - Jazz"
+      },
+      {
+        "url": "http://listen.radionomy.com/jazzlovers",
+        "id": 1656,
+        "type": 41,
+        "name": "Jazz Lovers Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/classicaljazzradio.m3u",
+        "id": 1657,
+        "type": 41,
+        "name": "Classical Jazz Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/jazzvespersradio.m3u",
+        "id": 1658,
+        "type": 41,
+        "name": "Jazz Vespers Radio"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_SMOOJAZZ.mp3",
+        "id": 1663,
+        "type": 41,
+        "name": ".977 - Smooth Jazz Channel"
+      },
+      {
+        "url": "http://96.92.63.241:8006/listen.m3u",
+        "id": 1665,
+        "type": 41,
+        "name": "Jazzerainious"
+      },
+      {
+        "url": "http://wm.1.fm/bossanova/128.m3u",
+        "id": 1681,
+        "type": 41,
+        "name": "1.FM - Bossa Nova Hits"
+      },
+      {
+        "url": "http://listen.radionomy.com/gospeljazzradio.m3u",
+        "id": 1683,
+        "type": 41,
+        "name": "Gospel Jazz Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/thebocx.m3u",
+        "id": 1695,
+        "type": 41,
+        "name": "The BocX"
+      },
+      {
+        "url": "http://aceradio.net/asx/vocaljazz.asx",
+        "id": 1697,
+        "type": 41,
+        "name": "Ace Radio - Vocal Jazz"
+      },
+      {
+        "url": "http://airlessradio.com/listen/asx/jazzjubilee.asx",
+        "id": 1703,
+        "type": 41,
+        "name": "Airless Radio - Jazz Jubilee"
+      },
+      {
+        "url": "http://listen.radionomy.com/andernos-la-radio.m3u",
+        "id": 1706,
+        "type": 41,
+        "name": "Andernos La Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/abcrelax.m3u",
+        "id": 1708,
+        "type": 41,
+        "name": "ABC Relax"
+      },
+      {
+        "url": "http://listen.radionomy.com/baie-des-anges-clubbing",
+        "id": 1711,
+        "type": 41,
+        "name": "Baie Des Anges Clubbing"
+      },
+      {
+        "url": "http://listen.radionomy.com/a-jazz-fm-web.m3u",
+        "id": 1712,
+        "type": 41,
+        "name": "A-JAZZ-FM-WEB"
+      },
+      {
+        "url": "http://sanfm.ru/relax.asx",
+        "id": 1714,
+        "type": 41,
+        "name": "SanFM.ru Relax"
+      },
+      {
+        "url": "http://listen.radionomy.com/thefunkystation.m3u",
+        "id": 1716,
+        "type": 41,
+        "name": "The Funky Station"
+      },
+      {
+        "url": "http://listen.radionomy.com/theloungejazzradio",
+        "id": 1717,
+        "type": 41,
+        "name": "The Lounge Jazz Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/radiopuntodecuba.m3u",
+        "id": 1718,
+        "type": 58,
+        "name": "Radio Punto de Cuba"
+      },
+      {
+        "url": "https://stream.laut.fm/radiocampesinacubana?ref=radiode",
+        "id": 1720,
+        "type": 58,
+        "name": "Radio Campesina Cubana"
+      },
+      {
+        "url": "http://listen.radionomy.com/radiollanera.m3u",
+        "id": 1721,
+        "type": 58,
+        "name": "Radio Llanera"
+      },
+      {
+        "url": "http://listen.radionomy.com/losgrandesgruposradio.m3u",
+        "id": 1722,
+        "type": 58,
+        "name": "Los Grandes Grupos Radio"
+      },
+      {
+        "url": "http://listen.radionomy.com/viva-el-mariachi.m3u",
+        "id": 1723,
+        "type": 58,
+        "name": "Viva El Mariachi"
+      },
+      {
+        "url": "http://listen.radionomy.com/aurora-de-siempre.m3u",
+        "id": 1725,
+        "type": 58,
+        "name": "Aurora de Siempre"
+      },
+      {
+        "url": "http://listen.radionomy.com/grupera-central.m3u",
+        "id": 1726,
+        "type": 58,
+        "name": "Grupera Central"
+      },
+      {
+        "url": "http://listen.radionomy.com/romanticadigital.m3u",
+        "id": 1734,
+        "type": 58,
+        "name": "Romantica Digital"
+      },
+      {
+        "url": "http://listen.radionomy.com/lha105.m3u",
+        "id": 1735,
+        "type": 58,
+        "name": "Latino Hits Amor 105"
+      },
+      {
+        "url": "http://listen.radionomy.com/ondamixfm.m3u",
+        "id": 1736,
+        "type": 58,
+        "name": "Onda Mix FM"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-salsa",
+        "id": 1739,
+        "type": 58,
+        "name": "181.FM Salsa"
+      },
+      {
+        "url": "http://www.star104.net/stream/wm-latin.asx",
+        "id": 1760,
+        "type": 58,
+        "name": "Estrella104 - The Latin Hits Channel"
+      },
+      {
+        "url": "http://wm.1.fm/latino/128.m3u",
+        "id": 1761,
+        "type": 58,
+        "name": "1.FM - Absolute Pop Latino"
+      },
+      {
+        "url": "http://listen.radionomy.com/radio-cubana.m3u",
+        "id": 1783,
+        "type": 58,
+        "name": "Radio Cubana"
+      },
+      {
+        "url": "http://listen.radionomy.com/cubania.m3u",
+        "id": 1784,
+        "type": 58,
+        "name": "CUBANIA"
+      },
+      {
+        "url": "http://listen.radionomy.com/euro7.m3u",
+        "id": 1786,
+        "type": 58,
+        "name": "Euro7 Latino"
+      },
+      {
+        "url": "http://listen.radionomy.com/miss-104.m3u",
+        "id": 1788,
+        "type": 58,
+        "name": "Miss 104 FM"
+      },
+      {
+        "url": "http://listen.radionomy.com/metalrock06.m3u",
+        "id": 1792,
+        "type": 73,
+        "name": "MetalRock06"
+      },
+      {
+        "url": "http://listen.radionomy.com/crucialvelocityradio.m3u",
+        "id": 1794,
+        "type": 73,
+        "name": "Crucial Velocity Radio"
+      },
+      {
+        "url": "http://www.bigrradio.com/asx/80smetal.asx",
+        "id": 1799,
+        "type": 73,
+        "name": "Big R Radio - 80s Metal"
+      },
+      {
+        "url": "http://bestnetradio.com/asx/80smetal.asx",
+        "id": 1801,
+        "type": 73,
+        "name": "Best Net Radio - 80s Metal"
+      },
+      {
+        "url": "http://death.fm/modules/Listen/MP3-hi.asx",
+        "id": 1803,
+        "type": 73,
+        "name": "Death.FM"
+      },
+      {
+        "url": "http://listen.radionomy.com/skylyneradiopowerrock1",
+        "id": 1823,
+        "type": 73,
+        "name": "Skylyne Radio Power Rock"
+      },
+      {
+        "url": "http://79.120.77.11:8000/powermetal",
+        "id": 1824,
+        "type": 73,
+        "name": "Metal Power"
+      },
+      {
+        "url": "http://listen.radionomy.com/goth-n-metal.m3u",
+        "id": 1825,
+        "type": 73,
+        "name": "Goth'N'Metal"
+      },
+      {
+        "url": "http://listen.radionomy.com/metal-arena.m3u",
+        "id": 1826,
+        "type": 73,
+        "name": "Metal Arena"
+      },
+      {
+        "url": "http://listen.radionomy.com/floatspafm.m3u",
+        "id": 1832,
+        "type": 0,
+        "name": "Float Spa"
+      },
+      {
+        "url": "http://listen.radionomy.com/frequences-relaxation.m3u",
+        "id": 1833,
+        "type": 0,
+        "name": "Frequences Relaxation"
+      },
+      {
+        "url": "http://centova.radios.pt:9522/stream",
+        "id": 1835,
+        "type": 47,
+        "name": "Radio Nove3Cinco"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-eagle",
+        "id": 1836,
+        "type": 59,
+        "name": "181.fm - Eagle Classic Rock"
+      },
+      {
+        "url": "http://www.181.fm/stream/tuner/181-greatoldies",
+        "id": 1838,
+        "type": 59,
+        "name": "181.fm - Classic Hits Great Oldies"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/windowsguide-hits.asx",
+        "id": 1839,
+        "type": 40,
+        "name": "Hotmix Radio Hits"
+      },
+      {
+        "url": "http://www.hotmixradio.fr/stream/windowsguide-new.asx",
+        "id": 1840,
+        "type": 40,
+        "name": "Hotmix Radio New"
+      },
+      {
+        "url": "https://proic1.evspt.com/oxigenio_aac",
+        "id": 1845,
+        "type": 47,
+        "name": "Rádio Oxigénio"
+      },
+      {
+        "url": "https://centova.radios.pt/proxy/499?mp=/stream/1/",
+        "id": 1848,
+        "type": 47,
+        "name": "Marginal"
+      },
+      {
+        "url": "https://proic1.evspt.com/radar_aac",
+        "id": 1849,
+        "type": 47,
+        "name": "Radar"
+      },
+      {
+        "url": "http://centova.radios.pt:8435",
+        "id": 1851,
+        "type": 47,
+        "name": "Nostalgia"
+      },
+      {
+        "url": "http://live.top80.fm:8086/",
+        "id": 1857,
+        "type": 47,
+        "name": "TOP 80"
+      },
+      {
+        "url": "http://centova.radios.pt:8475",
+        "id": 1858,
+        "type": 47,
+        "name": "Torres Novas FM"
+      },
+      {
+        "url": "http://mcrscast.mcr.iol.pt/cidadefm",
+        "id": 1902,
+        "type": 47,
+        "name": "Cidade FM"
+      },
+      {
+        "url": "https://22533.live.streamtheworld.com/RFMAAC.aac",
+        "id": 1903,
+        "type": 47,
+        "name": "RFM"
+      },
+      {
+        "url": "https://20043.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac",
+        "id": 1904,
+        "type": 47,
+        "name": "RFM - Dance Floor"
+      },
+      {
+        "url": "http://mcrscast.mcr.iol.pt/m80",
+        "id": 1905,
+        "type": 47,
+        "name": "RFM - Oitentas"
+      },
+      {
+        "url": "https://23603.live.streamtheworld.com/OCEANPACIFICAAC.aac",
+        "id": 1906,
+        "type": 47,
+        "name": "RFM - Oceano Pacifico"
+      },
+      {
+        "url": "http://tsfdirecto.tsf.pt/tsfdirecto.mp3",
+        "id": 1907,
+        "type": 47,
+        "name": "Radio TSF"
+      },
+      {
+        "url": "https://centova.radios.pt/proxy/478?mp=/stream/1/",
+        "id": 1909,
+        "type": 47,
+        "name": "Radio Nova Era"
+      },
+      {
+        "url": "http://mcrscast1.mcr.iol.pt/comercial.mp3",
+        "id": 1910,
+        "type": 47,
+        "name": "Radio Comercial"
+      },
+      {
+        "url": "https://22533.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
+        "id": 1911,
+        "type": 47,
+        "name": "RFM - On The Rock"
+      },
+      {
+        "url": "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-128-2770113",
+        "id": 1912,
+        "type": 92,
+        "name": "RTL"
+      },
+      {
+        "url": "https://radiodeejay-lh.akamaihd.net/i/RadioDeejay_Live_1@189857/master.m3u8",
+        "id": 1913,
+        "type": 92,
+        "name": "Radio Deejay"
+      },
+      {
+        "url": "http://51.255.118.192:8020/stream/1/",
+        "id": 1914,
+        "type": 92,
+        "name": "RDS"
+      },
+      {
+        "url": "http://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8",
+        "id": 1915,
+        "type": 92,
+        "name": "Radio Italia"
+      },
+      {
+        "url": "http://radio24-lh.akamaihd.net/i/radio24_1@99307/master.m3u8",
+        "id": 1916,
+        "type": 92,
+        "name": "Radio 24"
+      },
+      {
+        "url": "https://ice08.fluidstream.net/KissKiss.aac",
+        "id": 1917,
+        "type": 92,
+        "name": "Radio Kiss Kiss"
+      },
+      {
+        "url": "https://radiocapital-lh.akamaihd.net/i/RadioCapital_Live_1@196312/master.m3u8",
+        "id": 1918,
+        "type": 92,
+        "name": "Radio Capital"
+      },
+      {
+        "url": "http://edge.radiomontecarlo.net/RMC.mp3",
+        "id": 1919,
+        "type": 92,
+        "name": "Radio Montecarlo"
+      },
+      {
+        "url": "http://icecast.unitedradio.it/Radio105.mp3",
+        "id": 1922,
+        "type": 92,
+        "name": "Radio 105 Network"
+      },
+      {
+        "url": "http://icy.unitedradio.it/105Hits.mp3",
+        "id": 1923,
+        "type": 92,
+        "name": "Radio 105 Hits"
+      },
+      {
+        "url": "http://icy.unitedradio.it/105Classics.mp3",
+        "id": 1924,
+        "type": 92,
+        "name": "Radio 105 Classics"
+      },
+      {
+        "url": "http://icy.unitedradio.it/105Zoo.mp3",
+        "id": 1925,
+        "type": 92,
+        "name": "Radio 105 Zoo"
+      },
+      {
+        "url": "http://icy.unitedradio.it/105Story.mp3",
+        "id": 1926,
+        "type": 92,
+        "name": "Radio 105 Story"
+      },
+      {
+        "url": "http://icy.unitedradio.it/105HipHopRnB.mp3",
+        "id": 1927,
+        "type": 92,
+        "name": "Radio 105 Hip Hop"
+      },
+      {
+        "url": "http://icy.unitedradio.it/105InDaKlubb.mp3",
+        "id": 1928,
+        "type": 92,
+        "name": "Radio 105 Indaklubb"
+      },
+      {
+        "url": "http://icestreaming.rai.it/1.mp3",
+        "id": 1929,
+        "type": 92,
+        "name": "Rai Radio 1"
+      },
+      {
+        "url": "http://icestreaming.rai.it/2.mp3",
+        "id": 1930,
+        "type": 92,
+        "name": "Rai Radio 2"
+      },
+      {
+        "url": "http://icestreaming.rai.it/3.mp3",
+        "id": 1931,
+        "type": 92,
+        "name": "Rai Radio 3"
+      },
+      {
+        "url": "http://icestreaming.rai.it/11.mp3",
+        "id": 1932,
+        "type": 92,
+        "name": "Rai Radio Kids"
+      },
+      {
+        "url": "http://icestreaming.rai.it/7.mp3",
+        "id": 1933,
+        "type": 92,
+        "name": "Rai Gr Parlamento"
+      },
+      {
+        "url": "http://icestreaming.rai.it/6.mp3",
+        "id": 1934,
+        "type": 92,
+        "name": "Rai isoradio"
+      },
+      {
+        "url": "http://icestreaming.rai.it/5.mp3",
+        "id": 1935,
+        "type": 92,
+        "name": "Rai Radio Classica"
+      },
+      {
+        "url": "http://audio.radio24.ilsole24ore.com/radio24_audio/settimanali/gr.mp3",
+        "id": 1936,
+        "type": 92,
+        "name": "Gr 24 Notizie"
+      },
+      {
+        "url": "http://audio.radio24.ilsole24ore.com/radio24_audio/settimanali/24m.mp3",
+        "id": 1937,
+        "type": 92,
+        "name": "GR 24 Borse"
+      },
+      {
+        "url": "http://icecast.unitedradio.it/r101_mp3",
+        "id": 1938,
+        "type": 92,
+        "name": "R101"
+      },
+      {
+        "url": "http://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/index_48_a-p.m3u8",
+        "id": 1940,
+        "type": 92,
+        "name": "m2o"
+      },
+      {
+        "url": "http://onair11.xdevel.com:8014/;stream.mp3",
+        "id": 1942,
+        "type": 92,
+        "name": "Radio Pico Classic"
+      },
+      {
+        "url": "http://onair7.xdevel.com:8724/;stream.mp3",
+        "id": 1943,
+        "type": 92,
+        "name": "Fm Classic"
+      },
+      {
+        "url": "http://edge.radiomontecarlo.net/rmcweb001",
+        "id": 1944,
+        "type": 92,
+        "name": "RMC hits"
+      },
+      {
+        "url": "http://onair18.xdevel.com:8098/;stream.mp3",
+        "id": 1945,
+        "type": 92,
+        "name": "Radio Gamma"
+      },
+      {
+        "url": "http://icecast.unitedradio.it/Virgin.mp3",
+        "id": 1946,
+        "type": 92,
+        "name": "Virgin Radio"
+      },
+      {
+        "url": "http://icy.unitedradio.it/VirginRockAlternative.mp3",
+        "id": 1947,
+        "type": 92,
+        "name": "Virgin Rock Arternative"
+      },
+      {
+        "url": "http://edge.radiomontecarlo.net/rmcweb006",
+        "id": 1950,
+        "type": 92,
+        "name": "RMC Love Songs"
+      },
+      {
+        "url": "http://edge.radiomontecarlo.net/rmcweb008",
+        "id": 1951,
+        "type": 92,
+        "name": "RMC 80 "
+      },
+      {
+        "url": "http://edge.radiomontecarlo.net/rmcweb009",
+        "id": 1952,
+        "type": 92,
+        "name": "RMC 90"
+      },
+      {
+        "url": "http://edge.radiomontecarlo.net/rmcweb005",
+        "id": 1953,
+        "type": 92,
+        "name": "RMC Italia"
+      },
+      {
+        "url": "http://edge.radiomontecarlo.net/rmcweb007",
+        "id": 1954,
+        "type": 92,
+        "name": "RMC Great Artists"
+      },
+      {
+        "url": "http://edge.radiomontecarlo.net/rmcweb010",
+        "id": 1955,
+        "type": 92,
+        "name": "RMC Marine"
+      },
+      {
+        "url": "http://livex.radiopopolare.it/radiopop",
+        "id": 1958,
+        "type": 92,
+        "name": "Radio Popolare"
+      },
+      {
+        "url": "http://onair11.xdevel.com:9990/;stream/1",
+        "id": 1960,
+        "type": 92,
+        "name": "Radionorbar"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
+        "id": 1966,
+        "type": 40,
+        "name": ".977 - Today's Hits"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_90.mp3",
+        "id": 1967,
+        "type": 40,
+        "name": ".977 - 90's Hits"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_COUNTRY.mp3",
+        "id": 1968,
+        "type": 40,
+        "name": ".977 - Country Hits"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCK.mp3",
+        "id": 1969,
+        "type": 45,
+        "name": ".977 - 70's Rock"
+      },
+      {
+        "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_JAMZ.mp3",
+        "id": 1970,
+        "type": 45,
+        "name": ".977 - HipHop RNB"
+      },
+      {
+        "url": "http://stream08.iloveradio.de/iloveradio2.mp3",
+        "id": 1972,
+        "type": 84,
+        "name": "I LOVE 2 DANCE - House & EDM DJ-Mix"
+      },
+      {
+        "url": "http://listen.181fm.com/181-power_128k.mp3?listenerid=f0157f3fa579edc3efbcb8ef0e4492d5&esPlayer&cb=736282.mp3",
+        "id": 1973,
+        "type": 40,
+        "name": "181.FM Power 181 (TOP 40)"
+      },
+      {
+        "url": "http://centova.radios.pt:8465/stream",
+        "id": 1974,
+        "type": 47,
+        "name": "Emissora das Beiras"
+      },
+      {
+        "url": "http://centova.radios.pt:9456/stream/1/",
+        "id": 1976,
+        "type": 47,
+        "name": "Antena Livre de Gouveia"
+      },
+      {
+        "url": "https://nl.digitalrm.pt:8042/stream",
+        "id": 1977,
+        "type": 47,
+        "name": "RCS"
+      },
+      {
+        "url": "https://25703.live.streamtheworld.com/MEGA_HITSAAC.aac",
+        "id": 1978,
+        "type": 47,
+        "name": "Mega Hits"
+      },
+      {
+        "url": "http://mcrscast.mcr.iol.pt/m80",
+        "id": 1979,
+        "type": 47,
+        "name": "M80 FM"
+      },
+      {
+        "url": "http://streaming.radio.funradio.fr/fun-1-44-128",
+        "id": 1980,
+        "type": 93,
+        "name": "Fun Radio"
+      },
+      {
+        "url": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=radio.net",
+        "id": 1981,
+        "type": 93,
+        "name": "Energy"
+      },
+      {
+        "url": "https://latinawork.ice.infomaniak.ch/latinawork.mp3",
+        "id": 1982,
+        "type": 93,
+        "name": "Latina Work"
+      },
+      {
+        "url": "https://start-latina.ice.infomaniak.ch/start-latina-high.mp3",
+        "id": 1983,
+        "type": 93,
+        "name": "Latina"
+      },
+      {
+        "url": "https://latinabachata.ice.infomaniak.ch/latinabachata.mp3",
+        "id": 1984,
+        "type": 93,
         "name": "Latina Bachata"
       },
       {
-        "url_resolved": "https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1985",
+        "url": "https://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3",
+        "id": 1985,
+        "type": 93,
         "name": "Latina Kizomba"
       },
       {
-        "url_resolved": "https://latinalove.ice.infomaniak.ch/latinalove.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1986",
+        "url": "https://latinalove.ice.infomaniak.ch/latinalove.mp3",
+        "id": 1986,
+        "type": 93,
         "name": "Latina Love"
       },
       {
-        "url_resolved": "http://195.23.85.126:9500/;stream/1",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1987",
+        "url": "http://195.23.85.126:9500/;stream/1",
+        "id": 1987,
+        "type": 47,
         "name": "HIPER.FM"
       },
       {
-        "url_resolved": "http://strm112.1.fm/top40_mobile_mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1988",
+        "url": "http://strm112.1.fm/top40_mobile_mp3",
+        "id": 1988,
+        "type": 40,
         "name": "1.FM - Absolute Top 40"
       },
       {
-        "url_resolved": "http://tuner.m1.fm/charts.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1990",
+        "url": "http://tuner.m1.fm/charts.mp3",
+        "id": 1990,
+        "type": 40,
         "name": "TOP OF THE CHARTS (DE)"
       },
       {
-        "url_resolved": "http://tuner.m1.fm/80er.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1991",
+        "url": "http://tuner.m1.fm/80er.mp3",
+        "id": 1991,
+        "type": 63,
         "name": "80ER (DE)"
       },
       {
-        "url_resolved": "http://tuner.m1.fm/clubmix.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1992",
+        "url": "http://tuner.m1.fm/clubmix.mp3",
+        "id": 1992,
+        "type": 68,
         "name": "CLUBMIX (DE)"
       },
       {
-        "url_resolved": "http://cdn.nrjaudio.fm/adwz1/de/33047/mp3_128.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1993",
+        "url": "http://cdn.nrjaudio.fm/adwz1/de/33047/mp3_128.mp3",
+        "id": 1993,
+        "type": 48,
         "name": "ENERGY Fitness"
       },
       {
-        "url_resolved": "http://173.236.60.186:8020/stream/1/",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1994",
+        "url": "http://173.236.60.186:8020/stream/1/",
+        "id": 1994,
+        "type": 58,
         "name": "TOP Latino"
       },
       {
-        "url_resolved": "http://tropicalisima.net:8024/stream/1/",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1996",
+        "url": "http://tropicalisima.net:8024/stream/1/",
+        "id": 1996,
+        "type": 58,
         "name": "Tropicalísima Bachata"
       },
       {
-        "url_resolved": "http://icecast01.hotdanceradio.com/128.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1997",
+        "url": "http://icecast01.hotdanceradio.com/128.mp3",
+        "id": 1997,
+        "type": 40,
         "name": "Hot Dance Radio"
       },
       {
-        "url_resolved": "http://centova.radio.com.pt:9430/;",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=1999",
+        "url": "http://centova.radio.com.pt:9430/;",
+        "id": 1999,
+        "type": 47,
         "name": "Estação Diária - 96.8 FM (Viseu)"
       },
       {
-        "url_resolved": "https://streams.radio.co/sdc9cfaf77/listen",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2000",
+        "url": "https://streams.radio.co/sdc9cfaf77/listen",
+        "id": 2000,
+        "type": 84,
         "name": "Ibiza Live Radio"
       },
       {
-        "url_resolved": "https://streaming.radiostreamlive.com/miamibeachradio_devices",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2001",
+        "url": "https://streaming.radiostreamlive.com/miamibeachradio_devices",
+        "id": 2001,
+        "type": 84,
         "name": "Miami Beach Radio"
       },
       {
-        "url_resolved": "http://icepool.silvacast.com/HIT104.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2003",
+        "url": "http://icepool.silvacast.com/HIT104.mp3",
+        "id": 2003,
+        "type": 40,
         "name": "HIT 104"
       },
       {
-        "url_resolved": "http://radiocast.rtp.pt/antena180a.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2004",
+        "url": "http://radiocast.rtp.pt/antena180a.mp3",
+        "id": 2004,
+        "type": 47,
         "name": "Antena 1"
       },
       {
-        "url_resolved": "http://radiocast.rtp.pt/antena280a.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2005",
+        "url": "http://radiocast.rtp.pt/antena280a.mp3",
+        "id": 2005,
+        "type": 47,
         "name": "Antena 2"
       },
       {
-        "url_resolved": "http://radiocast.rtp.pt/antena380a.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2006",
+        "url": "http://radiocast.rtp.pt/antena380a.mp3",
+        "id": 2006,
+        "type": 47,
         "name": "Antena 3"
       },
       {
-        "url_resolved": "http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://stream.uzic.ch:9010/listen.pls&t=.m3u",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2007",
+        "url": "http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://stream.uzic.ch:9010/listen.pls&t=.m3u",
+        "id": 2007,
+        "type": 39,
         "name": "UZIC.CH TECHNO-MINIMAL"
       },
       {
-        "url_resolved": "http://www.globalbeats.fm/gbfm_green_mp3.asx",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2008",
+        "url": "http://www.globalbeats.fm/gbfm_green_mp3.asx",
+        "id": 2008,
+        "type": 39,
         "name": "Global Beats FM"
       },
       {
-        "url_resolved": "https://uk7.internet-radio.com/proxy/movedahouse?mp=//stream",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2009",
+        "url": "https://uk7.internet-radio.com/proxy/movedahouse?mp=//stream",
+        "id": 2009,
+        "type": 39,
         "name": "ModeDaHouse"
       },
       {
-        "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2010",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3",
+        "id": 2010,
+        "type": 39,
         "name": "Tomorrowland - One World Radio"
       },
       {
-        "url_resolved": "https://listen.181fm.com/181-office_128k.mp3",
-        "entity_picture": "http://ioline.no-ip.org:91/radios/images?id=2011",
+        "url": "https://listen.181fm.com/181-office_128k.mp3",
+        "id": 2011,
+        "type": 45,
         "name": "181.fm - The Office"
       }
     ]
